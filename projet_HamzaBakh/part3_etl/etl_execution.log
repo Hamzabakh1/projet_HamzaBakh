@@ -1,0 +1,21 @@
+2025-10-21 09:36:10,253 | INFO | 🚀 Loading senior_account_managers from ..\credit_challenge_dataset\senior_account_managers.csv
+2025-10-21 09:36:10,429 | INFO | ✅ COMMIT | table=senior_account_managers | +5 | updated=0 | skipped=0
+2025-10-21 09:36:10,431 | INFO | 🚀 Loading account_managers from ..\credit_challenge_dataset\account_managers.csv
+2025-10-21 09:36:10,474 | INFO | ✅ COMMIT | table=account_managers | +20 | updated=0 | skipped=0
+2025-10-21 09:36:10,479 | INFO | 🚀 Loading sellers from ..\credit_challenge_dataset\sellers.csv
+2025-10-21 09:36:10,633 | INFO | ✅ COMMIT | table=sellers | +300 | updated=0 | skipped=0
+2025-10-21 09:36:10,637 | INFO | 🚀 Loading credits from ..\credit_challenge_dataset\credits.csv
+2025-10-21 09:36:10,731 | INFO | ✅ COMMIT | table=credits | +800 | updated=0 | skipped=0
+2025-10-21 09:36:10,734 | INFO | 🚀 Loading leads from ..\credit_challenge_dataset\leads.csv
+2025-10-21 09:36:11,178 | INFO | ✅ COMMIT | table=leads | +20000 | updated=0 | skipped=0
+2025-10-21 09:36:11,188 | INFO | 🚀 Loading invoices from ..\credit_challenge_dataset\invoices.csv
+2025-10-21 09:36:12,229 | INFO | ✅ COMMIT | table=invoices | +27600 | updated=0 | skipped=0
+2025-10-21 09:36:12,239 | INFO | 🚀 Loading invoice_items from ..\credit_challenge_dataset\invoice_items.csv
+2025-10-21 09:36:13,624 | INFO | ✅ COMMIT | table=invoice_items | +138000 | updated=0 | skipped=0
+2025-10-21 09:36:13,640 | INFO | 🚀 Loading wallet_transactions from ..\credit_challenge_dataset\wallet_transactions.csv
+2025-10-21 09:36:14,439 | INFO | ✅ COMMIT | table=wallet_transactions | +27600 | updated=0 | skipped=0
+2025-10-21 09:36:14,448 | INFO | 🚀 Loading credit_histories from ..\credit_challenge_dataset\credit_histories.csv
+2025-10-21 09:36:14,530 | INFO | ✅ COMMIT | table=credit_histories | +3137 | updated=0 | skipped=0
+2025-10-21 09:36:14,536 | INFO | 🚀 Loading credit_chat from ..\credit_challenge_dataset\credit_chat.csv
+2025-10-21 09:36:14,618 | INFO | ✅ COMMIT | table=credit_chat | +1600 | updated=0 | skipped=0
+2025-10-21 09:36:14,625 | INFO | ✅ Run-all complete → etl_run_all_summary.json

@@ -1,0 +1,1601 @@
+credit_id,user_id,role,message_time,message
+1,11,AM,2025-06-03 16:22:24.939185,Requesting credit of $583.37 for seller 80
+1,4,SAM,2025-06-04 23:22:24.939185,Approved
+2,1,AM,2024-12-21 16:49:42.566296,Requesting credit of $608.3 for seller 83
+2,1,SAM,2024-12-23 03:49:42.566296,Approved
+3,17,AM,2025-01-03 00:56:41.472197,Requesting credit of $519.35 for seller 204
+3,5,SAM,2025-01-04 07:56:41.472197,Approved
+4,7,AM,2024-01-29 15:58:19.015218,Requesting credit of $255.76 for seller 111
+4,1,SAM,2024-01-31 01:58:19.015218,Approved
+5,6,AM,2024-08-08 03:24:43.329912,Requesting credit of $264.77 for seller 47
+5,2,SAM,2024-08-08 12:24:43.329912,Approved
+6,8,AM,2025-06-19 22:16:31.854517,Requesting credit of $322.93 for seller 79
+6,5,SAM,2025-06-20 23:16:31.854517,Rejected
+7,11,AM,2023-12-31 07:31:32.960639,Requesting credit of $468.48 for seller 31
+7,4,SAM,2024-01-01 08:31:32.960639,Approved
+8,4,AM,2024-09-05 15:10:18.681785,Requesting credit of $782.92 for seller 203
+8,2,SAM,2024-09-06 07:10:18.681785,Rejected
+9,17,AM,2025-04-12 22:45:16.154597,Requesting credit of $669.92 for seller 58
+9,5,SAM,2025-04-14 19:45:16.154597,Approved
+10,4,AM,2024-10-18 05:11:17.540950,Requesting credit of $668.38 for seller 97
+10,2,SAM,2024-10-20 05:11:17.540950,Approved
+11,8,AM,2024-08-21 19:07:40.377483,Requesting credit of $599.88 for seller 244
+11,5,SAM,2024-08-23 02:07:40.377483,Approved
+12,10,AM,2025-08-20 18:22:30.459384,Requesting credit of $595.71 for seller 75
+12,5,SAM,2025-08-21 14:22:30.459384,Approved
+13,9,AM,2024-10-13 14:23:00.305190,Requesting credit of $593.63 for seller 6
+13,1,SAM,2024-10-14 06:23:00.305190,Approved
+14,5,AM,2024-08-02 04:27:22.244100,Requesting credit of $219.07 for seller 71
+14,2,SAM,2024-08-02 14:27:22.244100,Approved
+15,8,AM,2024-11-22 00:30:41.790924,Requesting credit of $588.86 for seller 287
+15,5,SAM,2024-11-22 12:30:41.790924,Approved
+16,1,AM,2025-06-26 01:59:36.284743,Requesting credit of $621.04 for seller 284
+16,1,SAM,2025-06-26 11:59:36.284743,Approved
+17,12,AM,2024-01-05 19:07:32.219901,Requesting credit of $452.01 for seller 170
+17,1,SAM,2024-01-06 02:07:32.219901,Approved
+18,14,AM,2024-07-02 17:42:13.927813,Requesting credit of $476.54 for seller 94
+18,1,SAM,2024-07-03 01:42:13.927813,Approved
+19,13,AM,2024-11-10 21:28:43.144472,Requesting credit of $417.5 for seller 228
+19,1,SAM,2024-11-11 06:28:43.144472,Approved
+20,19,AM,2024-08-17 06:26:35.282554,Requesting credit of $353.21 for seller 227
+20,1,SAM,2024-08-18 00:26:35.282554,Approved
+21,9,AM,2024-08-26 16:36:06.131820,Requesting credit of $216.26 for seller 247
+21,1,SAM,2024-08-27 23:36:06.131820,Approved
+22,11,AM,2024-08-10 01:53:17.801265,Requesting credit of $268.38 for seller 31
+22,4,SAM,2024-08-11 21:53:17.801265,Approved
+23,6,AM,2024-11-09 09:11:39.646101,Requesting credit of $606.27 for seller 218
+23,2,SAM,2024-11-09 23:11:39.646101,Rejected
+24,10,AM,2025-02-06 16:17:19.597127,Requesting credit of $680.32 for seller 295
+24,5,SAM,2025-02-07 14:17:19.597127,Approved
+25,6,AM,2024-08-27 17:05:49.711905,Requesting credit of $423.38 for seller 218
+25,2,SAM,2024-08-29 13:05:49.711905,Approved
+26,16,AM,2024-06-05 09:58:47.839861,Requesting credit of $367.86 for seller 179
+26,2,SAM,2024-06-07 06:58:47.839861,Approved
+27,8,AM,2024-12-27 22:55:30.331735,Requesting credit of $513.97 for seller 126
+27,5,SAM,2024-12-29 16:55:30.331735,Approved
+28,6,AM,2024-12-21 19:37:41.877040,Requesting credit of $231.24 for seller 240
+28,2,SAM,2024-12-23 19:37:41.877040,Approved
+29,18,AM,2024-06-20 13:21:37.967972,Requesting credit of $715.25 for seller 161
+29,5,SAM,2024-06-20 19:21:37.967972,Approved
+30,9,AM,2024-04-09 09:55:20.863055,Requesting credit of $370.81 for seller 153
+30,1,SAM,2024-04-11 08:55:20.863055,Approved
+31,16,AM,2025-02-05 05:44:33.726196,Requesting credit of $652.17 for seller 263
+31,2,SAM,2025-02-05 20:44:33.726196,Approved
+32,18,AM,2025-07-19 13:24:19.096465,Requesting credit of $602.73 for seller 15
+32,5,SAM,2025-07-21 09:24:19.096465,Approved
+33,15,AM,2025-01-31 21:29:11.801702,Requesting credit of $507.55 for seller 135
+33,2,SAM,2025-02-02 19:29:11.801702,Approved
+34,4,AM,2024-09-02 12:06:47.175349,Requesting credit of $499.77 for seller 46
+34,2,SAM,2024-09-04 03:06:47.175349,Rejected
+35,18,AM,2025-03-26 05:56:22.488771,Requesting credit of $539.78 for seller 27
+35,5,SAM,2025-03-27 10:56:22.488771,Approved
+36,9,AM,2024-01-29 05:06:38.425720,Requesting credit of $593.69 for seller 186
+36,1,SAM,2024-01-29 12:06:38.425720,Approved
+37,6,AM,2024-08-29 05:00:45.821013,Requesting credit of $410.75 for seller 103
+37,2,SAM,2024-08-29 22:00:45.821013,Approved
+38,4,AM,2024-08-02 20:45:49.463846,Requesting credit of $664.19 for seller 99
+38,2,SAM,2024-08-04 16:45:49.463846,Approved
+39,8,AM,2024-11-14 20:31:17.655279,Requesting credit of $488.59 for seller 91
+39,5,SAM,2024-11-16 02:31:17.655279,Rejected
+40,6,AM,2025-08-06 11:20:45.633438,Requesting credit of $505.04 for seller 293
+40,2,SAM,2025-08-08 08:20:45.633438,Approved
+41,8,AM,2024-12-05 20:04:10.736679,Requesting credit of $365.33 for seller 287
+41,5,SAM,2024-12-07 02:04:10.736679,Approved
+42,12,AM,2024-04-14 01:52:53.244672,Requesting credit of $535.74 for seller 291
+42,1,SAM,2024-04-14 17:52:53.244672,Approved
+43,1,AM,2024-11-28 00:22:55.986724,Requesting credit of $336.2 for seller 284
+43,1,SAM,2024-11-29 01:22:55.986724,Approved
+44,12,AM,2024-04-19 02:31:43.302191,Requesting credit of $202.15 for seller 10
+44,1,SAM,2024-04-20 19:31:43.302191,Approved
+45,12,AM,2024-07-31 23:19:24.876772,Requesting credit of $401.47 for seller 200
+45,1,SAM,2024-08-02 01:19:24.876772,Approved
+46,18,AM,2024-06-17 16:01:05.607971,Requesting credit of $677.17 for seller 106
+46,5,SAM,2024-06-19 16:01:05.607971,Approved
+47,11,AM,2024-01-15 13:46:04.821012,Requesting credit of $753.61 for seller 86
+47,4,SAM,2024-01-16 23:46:04.821012,Approved
+48,7,AM,2024-09-05 22:37:43.605531,Requesting credit of $646.65 for seller 35
+48,1,SAM,2024-09-06 10:37:43.605531,Approved
+49,1,AM,2024-10-27 21:54:29.626170,Requesting credit of $352.33 for seller 57
+49,1,SAM,2024-10-29 06:54:29.626170,Rejected
+50,11,AM,2024-01-04 10:31:20.890671,Requesting credit of $730.81 for seller 33
+50,4,SAM,2024-01-05 06:31:20.890671,Approved
+51,11,AM,2025-01-28 14:17:13.429003,Requesting credit of $575.87 for seller 120
+51,4,SAM,2025-01-29 18:17:13.429003,Approved
+52,6,AM,2025-04-17 00:56:25.752589,Requesting credit of $289.46 for seller 218
+52,2,SAM,2025-04-17 06:56:25.752589,Approved
+53,3,AM,2025-05-15 13:32:51.705535,Requesting credit of $375.09 for seller 108
+53,3,SAM,2025-05-16 20:32:51.705535,Approved
+54,18,AM,2024-07-04 13:42:31.706242,Requesting credit of $659.3 for seller 281
+54,5,SAM,2024-07-06 13:42:31.706242,Approved
+55,3,AM,2024-06-04 09:13:47.538239,Requesting credit of $303.47 for seller 283
+55,3,SAM,2024-06-05 07:13:47.538239,Approved
+56,20,AM,2024-09-17 12:39:07.996276,Requesting credit of $369.58 for seller 16
+56,5,SAM,2024-09-18 02:39:07.996276,Approved
+57,15,AM,2024-09-16 21:44:29.260586,Requesting credit of $766.6 for seller 216
+57,2,SAM,2024-09-17 10:44:29.260586,Approved
+58,12,AM,2025-08-06 20:31:44.514709,Requesting credit of $723.58 for seller 167
+58,1,SAM,2025-08-07 18:31:44.514709,Approved
+59,11,AM,2024-12-31 16:07:57.266261,Requesting credit of $453.97 for seller 86
+59,4,SAM,2025-01-02 12:07:57.266261,Approved
+60,17,AM,2025-02-14 04:17:37.044199,Requesting credit of $796.21 for seller 77
+60,5,SAM,2025-02-15 14:17:37.044199,Approved
+61,3,AM,2024-01-29 13:34:50.754782,Requesting credit of $465.54 for seller 220
+61,3,SAM,2024-01-29 18:34:50.754782,Approved
+62,1,AM,2025-02-04 02:08:58.887531,Requesting credit of $587.06 for seller 183
+62,1,SAM,2025-02-05 20:08:58.887531,Approved
+63,11,AM,2024-12-08 06:59:39.435076,Requesting credit of $287.34 for seller 33
+63,4,SAM,2024-12-09 00:59:39.435076,Approved
+64,12,AM,2024-10-06 09:54:52.869005,Requesting credit of $434.12 for seller 167
+64,1,SAM,2024-10-08 05:54:52.869005,Approved
+65,2,AM,2024-08-04 17:18:23.426366,Requesting credit of $564.22 for seller 192
+65,1,SAM,2024-08-05 02:18:23.426366,Approved
+66,5,AM,2024-09-25 22:34:16.438767,Requesting credit of $541.94 for seller 251
+66,2,SAM,2024-09-27 01:34:16.438767,Approved
+67,17,AM,2025-01-05 00:33:45.876685,Requesting credit of $562.16 for seller 237
+67,5,SAM,2025-01-05 22:33:45.876685,Approved
+68,10,AM,2024-06-07 15:50:57.372788,Requesting credit of $278.26 for seller 221
+68,5,SAM,2024-06-09 14:50:57.372788,Approved
+69,20,AM,2025-03-22 17:48:58.284673,Requesting credit of $456.89 for seller 50
+69,5,SAM,2025-03-23 22:48:58.284673,Rejected
+70,13,AM,2024-10-08 06:05:23.510052,Requesting credit of $768.95 for seller 184
+70,1,SAM,2024-10-10 02:05:23.510052,Approved
+71,14,AM,2024-08-12 17:12:11.347152,Requesting credit of $485.74 for seller 95
+71,1,SAM,2024-08-13 17:12:11.347152,Approved
+72,14,AM,2024-06-11 05:25:25.941760,Requesting credit of $215.09 for seller 130
+72,1,SAM,2024-06-13 02:25:25.941760,Approved
+73,3,AM,2024-07-27 16:44:35.087522,Requesting credit of $502.98 for seller 155
+73,3,SAM,2024-07-28 02:44:35.087522,Approved
+74,17,AM,2024-01-18 17:07:52.455126,Requesting credit of $623.52 for seller 58
+74,5,SAM,2024-01-19 23:07:52.455126,Approved
+75,10,AM,2024-10-11 16:04:05.941274,Requesting credit of $428.69 for seller 221
+75,5,SAM,2024-10-13 11:04:05.941274,Approved
+76,19,AM,2025-02-15 06:49:16.072446,Requesting credit of $412.83 for seller 191
+76,1,SAM,2025-02-16 14:49:16.072446,Approved
+77,3,AM,2024-06-04 18:00:30.613652,Requesting credit of $239.29 for seller 70
+77,3,SAM,2024-06-05 01:00:30.613652,Approved
+78,9,AM,2024-06-15 02:17:55.513133,Requesting credit of $506.15 for seller 278
+78,1,SAM,2024-06-16 23:17:55.513133,Approved
+79,13,AM,2024-04-22 17:17:30.847297,Requesting credit of $765.04 for seller 184
+79,1,SAM,2024-04-24 09:17:30.847297,Approved
+80,19,AM,2024-08-15 06:44:47.843032,Requesting credit of $490.48 for seller 227
+80,1,SAM,2024-08-16 07:44:47.843032,Approved
+81,3,AM,2024-01-21 16:08:57.501364,Requesting credit of $423.14 for seller 271
+81,3,SAM,2024-01-22 04:08:57.501364,Approved
+82,4,AM,2024-10-14 09:08:10.273632,Requesting credit of $461.5 for seller 65
+82,2,SAM,2024-10-15 11:08:10.273632,Approved
+83,20,AM,2025-06-01 22:14:26.536720,Requesting credit of $654.41 for seller 50
+83,5,SAM,2025-06-02 10:14:26.536720,Approved
+84,7,AM,2025-01-07 18:18:29.161011,Requesting credit of $611.1 for seller 208
+84,1,SAM,2025-01-09 06:18:29.161011,Approved
+85,15,AM,2024-10-08 06:00:54.165811,Requesting credit of $314.09 for seller 245
+85,2,SAM,2024-10-09 05:00:54.165811,Approved
+86,4,AM,2025-03-27 00:10:21.039205,Requesting credit of $210.81 for seller 162
+86,2,SAM,2025-03-28 07:10:21.039205,Approved
+87,20,AM,2024-12-06 05:33:45.276196,Requesting credit of $310.37 for seller 286
+87,5,SAM,2024-12-07 05:33:45.276196,Approved
+88,18,AM,2025-01-03 19:19:39.030533,Requesting credit of $607.12 for seller 239
+88,5,SAM,2025-01-05 10:19:39.030533,Approved
+89,12,AM,2024-05-19 00:19:13.545560,Requesting credit of $659.48 for seller 194
+89,1,SAM,2024-05-20 18:19:13.545560,Approved
+90,6,AM,2024-04-03 02:38:59.703279,Requesting credit of $336.11 for seller 293
+90,2,SAM,2024-04-04 09:38:59.703279,Approved
+91,16,AM,2025-01-15 21:30:17.654199,Requesting credit of $617.25 for seller 179
+91,2,SAM,2025-01-16 07:30:17.654199,Approved
+92,20,AM,2024-05-19 12:45:50.955405,Requesting credit of $525.06 for seller 16
+92,5,SAM,2024-05-19 20:45:50.955405,Rejected
+93,19,AM,2025-04-22 08:28:32.379723,Requesting credit of $399.4 for seller 81
+93,1,SAM,2025-04-22 20:28:32.379723,Approved
+94,20,AM,2024-02-20 03:43:07.517569,Requesting credit of $706.1 for seller 210
+94,5,SAM,2024-02-21 09:43:07.517569,Approved
+95,9,AM,2024-08-21 13:14:39.087881,Requesting credit of $289.58 for seller 133
+95,1,SAM,2024-08-22 12:14:39.087881,Approved
+96,19,AM,2025-04-18 00:49:32.067852,Requesting credit of $279.95 for seller 258
+96,1,SAM,2025-04-19 02:49:32.067852,Approved
+97,16,AM,2025-03-10 12:15:15.294011,Requesting credit of $552.63 for seller 265
+97,2,SAM,2025-03-12 03:15:15.294011,Approved
+98,18,AM,2024-09-28 07:47:01.429790,Requesting credit of $613.97 for seller 281
+98,5,SAM,2024-09-30 05:47:01.429790,Approved
+99,13,AM,2024-01-03 04:50:08.648101,Requesting credit of $300.73 for seller 14
+99,1,SAM,2024-01-04 06:50:08.648101,Rejected
+100,18,AM,2024-06-26 17:18:10.804665,Requesting credit of $734.24 for seller 40
+100,5,SAM,2024-06-28 13:18:10.804665,Approved
+101,15,AM,2025-01-16 16:33:20.768412,Requesting credit of $419.91 for seller 268
+101,2,SAM,2025-01-17 22:33:20.768412,Approved
+102,8,AM,2024-08-30 01:08:19.384954,Requesting credit of $222.27 for seller 126
+102,5,SAM,2024-08-31 19:08:19.384954,Rejected
+103,16,AM,2024-05-07 06:43:57.412033,Requesting credit of $579.61 for seller 110
+103,2,SAM,2024-05-07 13:43:57.412033,Approved
+104,20,AM,2024-04-23 23:08:42.852039,Requesting credit of $676.64 for seller 125
+104,5,SAM,2024-04-25 05:08:42.852039,Approved
+105,15,AM,2024-07-01 16:44:01.936735,Requesting credit of $483.9 for seller 268
+105,2,SAM,2024-07-03 15:44:01.936735,Approved
+106,2,AM,2024-12-22 20:59:50.749578,Requesting credit of $772.26 for seller 192
+106,1,SAM,2024-12-24 14:59:50.749578,Rejected
+107,16,AM,2025-01-18 05:02:27.078961,Requesting credit of $531.42 for seller 259
+107,2,SAM,2025-01-19 03:02:27.078961,Approved
+108,15,AM,2025-08-06 14:08:39.958165,Requesting credit of $431.87 for seller 268
+108,2,SAM,2025-08-07 18:08:39.958165,Approved
+109,3,AM,2024-09-11 21:39:28.037601,Requesting credit of $518.38 for seller 283
+109,3,SAM,2024-09-12 03:39:28.037601,Approved
+110,5,AM,2024-07-14 23:28:43.526761,Requesting credit of $269.07 for seller 236
+110,2,SAM,2024-07-16 15:28:43.526761,Approved
+111,18,AM,2025-08-16 20:35:53.391357,Requesting credit of $363.75 for seller 207
+111,5,SAM,2025-08-17 10:35:53.391357,Approved
+112,6,AM,2025-08-12 04:32:45.684364,Requesting credit of $351.35 for seller 62
+112,2,SAM,2025-08-12 14:32:45.684364,Approved
+113,13,AM,2024-08-26 13:40:56.890691,Requesting credit of $313.64 for seller 209
+113,1,SAM,2024-08-27 14:40:56.890691,Approved
+114,18,AM,2025-03-24 21:25:56.506134,Requesting credit of $579.52 for seller 144
+114,5,SAM,2025-03-26 09:25:56.506134,Approved
+115,13,AM,2024-07-22 09:57:07.405839,Requesting credit of $410.25 for seller 98
+115,1,SAM,2024-07-22 22:57:07.405839,Approved
+116,9,AM,2025-05-16 23:47:07.881347,Requesting credit of $257.51 for seller 279
+116,1,SAM,2025-05-18 08:47:07.881347,Approved
+117,15,AM,2025-04-07 06:41:18.008387,Requesting credit of $343.14 for seller 137
+117,2,SAM,2025-04-08 06:41:18.008387,Approved
+118,19,AM,2024-04-16 00:04:14.504668,Requesting credit of $302.15 for seller 300
+118,1,SAM,2024-04-17 20:04:14.504668,Approved
+119,5,AM,2025-08-03 00:39:16.488501,Requesting credit of $277.44 for seller 272
+119,2,SAM,2025-08-04 09:39:16.488501,Approved
+120,17,AM,2025-06-06 03:25:27.879896,Requesting credit of $406.24 for seller 233
+120,5,SAM,2025-06-07 22:25:27.879896,Approved
+121,10,AM,2025-07-21 10:18:19.714558,Requesting credit of $561.37 for seller 75
+121,5,SAM,2025-07-23 07:18:19.714558,Approved
+122,8,AM,2025-05-28 14:36:34.961130,Requesting credit of $266.62 for seller 244
+122,5,SAM,2025-05-29 15:36:34.961130,Approved
+123,19,AM,2024-01-13 17:12:31.284581,Requesting credit of $606.3 for seller 128
+123,1,SAM,2024-01-15 01:12:31.284581,Approved
+124,8,AM,2025-08-17 13:58:31.977471,Requesting credit of $254.65 for seller 32
+124,5,SAM,2025-08-18 17:58:31.977471,Approved
+125,8,AM,2025-01-29 18:31:03.777056,Requesting credit of $214.47 for seller 182
+125,5,SAM,2025-01-30 02:31:03.777056,Approved
+126,4,AM,2024-10-12 12:24:38.006757,Requesting credit of $316.24 for seller 21
+126,2,SAM,2024-10-13 01:24:38.006757,Approved
+127,3,AM,2025-03-29 18:11:33.267714,Requesting credit of $572.08 for seller 69
+127,3,SAM,2025-03-30 06:11:33.267714,Approved
+128,11,AM,2024-09-01 12:57:15.963980,Requesting credit of $566.94 for seller 86
+128,4,SAM,2024-09-02 00:57:15.963980,Approved
+129,10,AM,2024-07-08 06:20:04.998059,Requesting credit of $637.34 for seller 295
+129,5,SAM,2024-07-09 18:20:04.998059,Approved
+130,14,AM,2024-08-29 16:27:51.296011,Requesting credit of $451.76 for seller 255
+130,1,SAM,2024-08-30 08:27:51.296011,Approved
+131,5,AM,2025-03-06 14:10:51.006830,Requesting credit of $383.58 for seller 236
+131,2,SAM,2025-03-08 03:10:51.006830,Rejected
+132,1,AM,2024-05-19 12:09:49.781862,Requesting credit of $592.1 for seller 183
+132,1,SAM,2024-05-20 01:09:49.781862,Approved
+133,15,AM,2025-02-05 06:58:20.038975,Requesting credit of $284.71 for seller 276
+133,2,SAM,2025-02-05 12:58:20.038975,Approved
+134,10,AM,2024-06-07 16:49:45.460920,Requesting credit of $776.51 for seller 219
+134,5,SAM,2024-06-09 00:49:45.460920,Approved
+135,13,AM,2024-03-29 23:42:43.231072,Requesting credit of $215.52 for seller 114
+135,1,SAM,2024-03-31 02:42:43.231072,Approved
+136,5,AM,2025-04-21 21:21:51.953897,Requesting credit of $347.12 for seller 134
+136,2,SAM,2025-04-23 09:21:51.953897,Approved
+137,5,AM,2024-01-23 13:36:23.494154,Requesting credit of $788.86 for seller 236
+137,2,SAM,2024-01-23 20:36:23.494154,Approved
+138,8,AM,2025-01-22 16:19:52.773737,Requesting credit of $784.44 for seller 79
+138,5,SAM,2025-01-23 03:19:52.773737,Approved
+139,5,AM,2025-05-30 09:08:19.087145,Requesting credit of $736.39 for seller 236
+139,2,SAM,2025-05-30 18:08:19.087145,Approved
+140,13,AM,2024-09-10 19:05:39.083956,Requesting credit of $665.84 for seller 49
+140,1,SAM,2024-09-12 01:05:39.083956,Rejected
+141,10,AM,2024-11-15 14:54:10.408317,Requesting credit of $708.37 for seller 118
+141,5,SAM,2024-11-15 19:54:10.408317,Approved
+142,11,AM,2024-07-11 02:00:12.866419,Requesting credit of $262.27 for seller 31
+142,4,SAM,2024-07-11 14:00:12.866419,Rejected
+143,18,AM,2024-04-08 12:02:22.127681,Requesting credit of $774.68 for seller 161
+143,5,SAM,2024-04-09 20:02:22.127681,Approved
+144,17,AM,2024-03-28 08:52:27.451112,Requesting credit of $435.06 for seller 217
+144,5,SAM,2024-03-29 23:52:27.451112,Approved
+145,14,AM,2025-07-06 15:55:42.311468,Requesting credit of $421.35 for seller 130
+145,1,SAM,2025-07-07 02:55:42.311468,Rejected
+146,16,AM,2024-10-06 16:12:49.614982,Requesting credit of $442.73 for seller 110
+146,2,SAM,2024-10-08 03:12:49.614982,Approved
+147,15,AM,2024-04-18 02:28:32.494742,Requesting credit of $241.44 for seller 96
+147,2,SAM,2024-04-18 15:28:32.494742,Approved
+148,1,AM,2025-05-05 18:40:54.293947,Requesting credit of $792.88 for seller 83
+148,1,SAM,2025-05-07 00:40:54.293947,Approved
+149,8,AM,2024-11-05 03:52:02.088317,Requesting credit of $301.08 for seller 79
+149,5,SAM,2024-11-06 17:52:02.088317,Approved
+150,9,AM,2024-03-10 12:59:01.395232,Requesting credit of $560.55 for seller 148
+150,1,SAM,2024-03-10 18:59:01.395232,Approved
+151,15,AM,2025-05-28 22:44:36.682189,Requesting credit of $586.13 for seller 96
+151,2,SAM,2025-05-30 00:44:36.682189,Approved
+152,8,AM,2024-07-27 12:35:48.615474,Requesting credit of $387.16 for seller 126
+152,5,SAM,2024-07-28 00:35:48.615474,Rejected
+153,18,AM,2024-10-05 16:52:45.306218,Requesting credit of $253.92 for seller 30
+153,5,SAM,2024-10-07 16:52:45.306218,Approved
+154,18,AM,2025-07-19 22:13:03.678614,Requesting credit of $765.77 for seller 13
+154,5,SAM,2025-07-20 14:13:03.678614,Rejected
+155,19,AM,2023-12-27 03:13:06.723662,Requesting credit of $442.96 for seller 214
+155,1,SAM,2023-12-28 17:13:06.723662,Approved
+156,15,AM,2025-08-05 04:22:27.665975,Requesting credit of $546.14 for seller 290
+156,2,SAM,2025-08-05 11:22:27.665975,Approved
+157,13,AM,2024-03-06 12:21:01.963646,Requesting credit of $695.25 for seller 270
+157,1,SAM,2024-03-07 20:21:01.963646,Approved
+158,5,AM,2024-10-27 20:41:13.791552,Requesting credit of $443.01 for seller 61
+158,2,SAM,2024-10-28 23:41:13.791552,Approved
+159,2,AM,2023-12-30 19:14:22.494389,Requesting credit of $643.54 for seller 84
+159,1,SAM,2024-01-01 13:14:22.494389,Approved
+160,20,AM,2024-04-19 20:08:45.075752,Requesting credit of $499.14 for seller 225
+160,5,SAM,2024-04-21 18:08:45.075752,Approved
+161,18,AM,2024-11-29 00:16:05.670280,Requesting credit of $687.38 for seller 13
+161,5,SAM,2024-11-30 02:16:05.670280,Approved
+162,12,AM,2024-09-14 11:20:39.628386,Requesting credit of $514.42 for seller 200
+162,1,SAM,2024-09-16 07:20:39.628386,Approved
+163,8,AM,2024-08-01 15:52:56.372633,Requesting credit of $564.04 for seller 169
+163,5,SAM,2024-08-03 03:52:56.372633,Approved
+164,19,AM,2024-12-14 05:01:23.542327,Requesting credit of $250.56 for seller 90
+164,1,SAM,2024-12-16 04:01:23.542327,Approved
+165,9,AM,2024-09-05 04:53:57.913690,Requesting credit of $441.66 for seller 133
+165,1,SAM,2024-09-06 07:53:57.913690,Approved
+166,3,AM,2025-04-21 22:53:55.786921,Requesting credit of $776.3 for seller 20
+166,3,SAM,2025-04-23 01:53:55.786921,Approved
+167,13,AM,2024-03-28 00:40:22.708820,Requesting credit of $676.54 for seller 114
+167,1,SAM,2024-03-29 05:40:22.708820,Approved
+168,19,AM,2024-05-19 08:53:31.423742,Requesting credit of $507.53 for seller 90
+168,1,SAM,2024-05-20 19:53:31.423742,Approved
+169,9,AM,2024-08-15 20:41:29.541580,Requesting credit of $244.64 for seller 153
+169,1,SAM,2024-08-16 13:41:29.541580,Approved
+170,16,AM,2025-06-26 05:34:12.282581,Requesting credit of $778.26 for seller 64
+170,2,SAM,2025-06-26 17:34:12.282581,Approved
+171,19,AM,2025-05-26 12:12:19.618815,Requesting credit of $744.27 for seller 90
+171,1,SAM,2025-05-28 10:12:19.618815,Approved
+172,6,AM,2024-03-11 00:22:38.325805,Requesting credit of $653.67 for seller 62
+172,2,SAM,2024-03-11 14:22:38.325805,Approved
+173,20,AM,2025-02-13 11:39:29.246805,Requesting credit of $733.07 for seller 125
+173,5,SAM,2025-02-13 22:39:29.246805,Approved
+174,8,AM,2024-03-01 18:13:38.382007,Requesting credit of $590.49 for seller 91
+174,5,SAM,2024-03-03 09:13:38.382007,Approved
+175,15,AM,2024-01-01 16:27:06.762062,Requesting credit of $273.69 for seller 245
+175,2,SAM,2024-01-02 00:27:06.762062,Approved
+176,3,AM,2024-01-11 08:09:45.959435,Requesting credit of $767.22 for seller 141
+176,3,SAM,2024-01-13 00:09:45.959435,Rejected
+177,5,AM,2025-05-25 15:50:54.375501,Requesting credit of $572.71 for seller 71
+177,2,SAM,2025-05-26 17:50:54.375501,Approved
+178,9,AM,2024-05-17 14:13:32.569218,Requesting credit of $329.44 for seller 34
+178,1,SAM,2024-05-18 21:13:32.569218,Approved
+179,3,AM,2024-05-07 08:06:31.538994,Requesting credit of $565.14 for seller 252
+179,3,SAM,2024-05-07 22:06:31.538994,Approved
+180,7,AM,2024-06-02 14:40:58.997807,Requesting credit of $584.02 for seller 25
+180,1,SAM,2024-06-02 23:40:58.997807,Approved
+181,6,AM,2025-07-21 01:44:47.906606,Requesting credit of $439.68 for seller 103
+181,2,SAM,2025-07-22 20:44:47.906606,Approved
+182,8,AM,2025-01-27 19:58:12.046434,Requesting credit of $338.91 for seller 224
+182,5,SAM,2025-01-29 17:58:12.046434,Approved
+183,9,AM,2024-12-15 02:16:31.323996,Requesting credit of $575.47 for seller 154
+183,1,SAM,2024-12-15 11:16:31.323996,Rejected
+184,16,AM,2024-05-30 21:18:49.253561,Requesting credit of $743.9 for seller 280
+184,2,SAM,2024-06-01 03:18:49.253561,Approved
+185,17,AM,2025-03-31 05:12:32.296194,Requesting credit of $201.52 for seller 58
+185,5,SAM,2025-04-02 02:12:32.296194,Approved
+186,2,AM,2024-01-28 10:50:37.013521,Requesting credit of $251.89 for seller 107
+186,1,SAM,2024-01-28 18:50:37.013521,Approved
+187,20,AM,2025-08-01 19:54:32.751254,Requesting credit of $505.94 for seller 269
+187,5,SAM,2025-08-03 13:54:32.751254,Approved
+188,20,AM,2024-10-28 20:13:58.836222,Requesting credit of $600.93 for seller 286
+188,5,SAM,2024-10-29 23:13:58.836222,Approved
+189,8,AM,2025-07-04 01:05:58.379890,Requesting credit of $371.34 for seller 176
+189,5,SAM,2025-07-04 20:05:58.379890,Approved
+190,6,AM,2024-09-06 15:29:09.400002,Requesting credit of $291.97 for seller 293
+190,2,SAM,2024-09-07 21:29:09.400002,Approved
+191,2,AM,2025-07-15 23:56:35.240434,Requesting credit of $471.66 for seller 121
+191,1,SAM,2025-07-16 23:56:35.240434,Approved
+192,14,AM,2024-11-12 00:12:17.295559,Requesting credit of $355.93 for seller 255
+192,1,SAM,2024-11-13 11:12:17.295559,Rejected
+193,13,AM,2025-04-04 06:49:34.204675,Requesting credit of $487.01 for seller 37
+193,1,SAM,2025-04-05 08:49:34.204675,Rejected
+194,1,AM,2024-04-19 23:33:36.708708,Requesting credit of $436.1 for seller 284
+194,1,SAM,2024-04-20 03:33:36.708708,Approved
+195,6,AM,2025-03-11 09:06:48.673233,Requesting credit of $231.72 for seller 177
+195,2,SAM,2025-03-12 12:06:48.673233,Rejected
+196,3,AM,2024-05-15 07:16:38.390901,Requesting credit of $209.01 for seller 45
+196,3,SAM,2024-05-16 22:16:38.390901,Approved
+197,11,AM,2025-01-05 17:44:57.624700,Requesting credit of $240.57 for seller 86
+197,4,SAM,2025-01-07 16:44:57.624700,Approved
+198,3,AM,2024-02-28 22:24:34.302731,Requesting credit of $717.11 for seller 85
+198,3,SAM,2024-03-01 13:24:34.302731,Approved
+199,9,AM,2025-06-15 08:38:03.447628,Requesting credit of $596.35 for seller 150
+199,1,SAM,2025-06-15 14:38:03.447628,Rejected
+200,3,AM,2024-03-13 12:46:42.012594,Requesting credit of $346.99 for seller 26
+200,3,SAM,2024-03-14 01:46:42.012594,Approved
+201,19,AM,2024-09-01 23:34:59.425911,Requesting credit of $289.77 for seller 258
+201,1,SAM,2024-09-03 04:34:59.425911,Approved
+202,14,AM,2025-03-22 11:14:22.566515,Requesting credit of $476.4 for seller 198
+202,1,SAM,2025-03-24 01:14:22.566515,Approved
+203,5,AM,2024-08-04 22:53:50.525752,Requesting credit of $248.04 for seller 71
+203,2,SAM,2024-08-06 21:53:50.525752,Approved
+204,7,AM,2025-04-06 13:28:02.144800,Requesting credit of $770.48 for seller 35
+204,1,SAM,2025-04-07 23:28:02.144800,Approved
+205,10,AM,2025-03-23 14:34:07.116899,Requesting credit of $270.87 for seller 55
+205,5,SAM,2025-03-23 21:34:07.116899,Approved
+206,7,AM,2024-02-10 16:03:03.698976,Requesting credit of $240.27 for seller 213
+206,1,SAM,2024-02-11 05:03:03.698976,Approved
+207,3,AM,2025-06-01 05:27:36.722126,Requesting credit of $668.22 for seller 138
+207,3,SAM,2025-06-02 13:27:36.722126,Approved
+208,17,AM,2025-03-15 00:58:10.222722,Requesting credit of $745.19 for seller 199
+208,5,SAM,2025-03-16 10:58:10.222722,Approved
+209,1,AM,2024-08-23 02:55:29.235723,Requesting credit of $738.22 for seller 83
+209,1,SAM,2024-08-24 17:55:29.235723,Approved
+210,3,AM,2025-04-03 04:12:57.052321,Requesting credit of $203.86 for seller 85
+210,3,SAM,2025-04-04 18:12:57.052321,Approved
+211,3,AM,2025-05-31 13:46:25.328369,Requesting credit of $790.19 for seller 138
+211,3,SAM,2025-06-01 05:46:25.328369,Approved
+212,12,AM,2024-04-05 05:09:03.705163,Requesting credit of $676.79 for seller 181
+212,1,SAM,2024-04-05 22:09:03.705163,Approved
+213,13,AM,2024-09-22 09:27:59.855632,Requesting credit of $465.91 for seller 37
+213,1,SAM,2024-09-23 07:27:59.855632,Approved
+214,7,AM,2025-08-08 07:45:48.591498,Requesting credit of $681.07 for seller 213
+214,1,SAM,2025-08-08 20:45:48.591498,Approved
+215,20,AM,2025-03-07 00:21:12.226149,Requesting credit of $639.77 for seller 171
+215,5,SAM,2025-03-08 21:21:12.226149,Approved
+216,15,AM,2025-04-30 20:48:10.904491,Requesting credit of $764.55 for seller 226
+216,2,SAM,2025-05-02 20:48:10.904491,Approved
+217,13,AM,2024-03-30 20:42:28.162911,Requesting credit of $674.27 for seller 229
+217,1,SAM,2024-04-01 18:42:28.162911,Approved
+218,9,AM,2025-04-30 23:58:23.062299,Requesting credit of $305.2 for seller 190
+218,1,SAM,2025-05-02 09:58:23.062299,Approved
+219,20,AM,2025-01-11 04:11:10.355079,Requesting credit of $487.61 for seller 48
+219,5,SAM,2025-01-12 10:11:10.355079,Approved
+220,5,AM,2024-11-29 11:16:51.322363,Requesting credit of $249.13 for seller 61
+220,2,SAM,2024-11-30 11:16:51.322363,Approved
+221,13,AM,2025-02-15 08:27:27.011168,Requesting credit of $731.82 for seller 206
+221,1,SAM,2025-02-16 02:27:27.011168,Approved
+222,2,AM,2025-07-28 21:38:40.910387,Requesting credit of $658.56 for seller 192
+222,1,SAM,2025-07-29 03:38:40.910387,Approved
+223,5,AM,2025-07-05 04:15:41.560851,Requesting credit of $374.25 for seller 39
+223,2,SAM,2025-07-05 08:15:41.560851,Approved
+224,14,AM,2025-05-09 11:54:05.106157,Requesting credit of $403.86 for seller 94
+224,1,SAM,2025-05-11 08:54:05.106157,Approved
+225,20,AM,2024-05-20 20:59:59.956821,Requesting credit of $651.61 for seller 50
+225,5,SAM,2024-05-21 12:59:59.956821,Approved
+226,3,AM,2024-02-16 07:56:00.520319,Requesting credit of $517.7 for seller 201
+226,3,SAM,2024-02-16 11:56:00.520319,Approved
+227,3,AM,2025-04-07 17:23:37.702813,Requesting credit of $386.54 for seller 26
+227,3,SAM,2025-04-09 13:23:37.702813,Approved
+228,3,AM,2024-07-16 01:06:30.177262,Requesting credit of $486.42 for seller 136
+228,3,SAM,2024-07-16 16:06:30.177262,Approved
+229,2,AM,2025-01-15 12:10:46.969536,Requesting credit of $450.34 for seller 123
+229,1,SAM,2025-01-16 07:10:46.969536,Approved
+230,1,AM,2025-07-28 14:29:17.532023,Requesting credit of $762.86 for seller 157
+230,1,SAM,2025-07-28 18:29:17.532023,Approved
+231,15,AM,2025-07-05 00:36:40.758655,Requesting credit of $706.27 for seller 226
+231,2,SAM,2025-07-05 14:36:40.758655,Approved
+232,11,AM,2024-07-05 23:04:12.484237,Requesting credit of $558.68 for seller 120
+232,4,SAM,2024-07-07 19:04:12.484237,Approved
+233,4,AM,2024-02-15 00:54:43.323763,Requesting credit of $293.26 for seller 97
+233,2,SAM,2024-02-15 13:54:43.323763,Approved
+234,19,AM,2024-05-31 10:26:39.321254,Requesting credit of $367.77 for seller 82
+234,1,SAM,2024-06-02 00:26:39.321254,Approved
+235,18,AM,2024-08-09 14:21:19.169178,Requesting credit of $541.88 for seller 106
+235,5,SAM,2024-08-11 03:21:19.169178,Approved
+236,3,AM,2025-03-25 00:54:48.092464,Requesting credit of $788.88 for seller 136
+236,3,SAM,2025-03-26 15:54:48.092464,Approved
+237,5,AM,2024-12-26 15:38:50.062021,Requesting credit of $717.91 for seller 61
+237,2,SAM,2024-12-27 23:38:50.062021,Approved
+238,6,AM,2025-06-08 05:15:42.266279,Requesting credit of $453.06 for seller 143
+238,2,SAM,2025-06-09 13:15:42.266279,Approved
+239,19,AM,2025-05-04 03:35:20.536629,Requesting credit of $294.23 for seller 42
+239,1,SAM,2025-05-05 18:35:20.536629,Approved
+240,5,AM,2025-06-06 19:02:47.012487,Requesting credit of $618.49 for seller 158
+240,2,SAM,2025-06-07 12:02:47.012487,Approved
+241,7,AM,2025-03-29 02:00:01.285283,Requesting credit of $472.87 for seller 111
+241,1,SAM,2025-03-30 16:00:01.285283,Approved
+242,4,AM,2024-01-04 23:07:02.372648,Requesting credit of $498.34 for seller 65
+242,2,SAM,2024-01-06 05:07:02.372648,Approved
+243,20,AM,2024-10-10 20:56:10.054387,Requesting credit of $528.83 for seller 63
+243,5,SAM,2024-10-12 04:56:10.054387,Approved
+244,18,AM,2024-11-30 17:23:25.171319,Requesting credit of $371.34 for seller 254
+244,5,SAM,2024-12-01 04:23:25.171319,Approved
+245,12,AM,2024-01-04 15:30:13.159760,Requesting credit of $437.07 for seller 142
+245,1,SAM,2024-01-04 20:30:13.159760,Approved
+246,2,AM,2025-01-20 12:08:49.901183,Requesting credit of $368.31 for seller 166
+246,1,SAM,2025-01-21 06:08:49.901183,Approved
+247,13,AM,2024-03-30 08:27:08.496422,Requesting credit of $635.87 for seller 209
+247,1,SAM,2024-04-01 03:27:08.496422,Approved
+248,17,AM,2025-07-15 05:22:57.210179,Requesting credit of $706.7 for seller 122
+248,5,SAM,2025-07-16 23:22:57.210179,Rejected
+249,4,AM,2024-01-06 21:31:02.944303,Requesting credit of $347.99 for seller 78
+249,2,SAM,2024-01-08 02:31:02.944303,Approved
+250,3,AM,2024-06-02 22:06:41.430741,Requesting credit of $425.92 for seller 45
+250,3,SAM,2024-06-03 20:06:41.430741,Approved
+251,6,AM,2025-01-03 13:47:18.984505,Requesting credit of $394.88 for seller 28
+251,2,SAM,2025-01-04 08:47:18.984505,Approved
+252,18,AM,2024-08-08 02:44:33.923184,Requesting credit of $357.19 for seller 146
+252,5,SAM,2024-08-08 23:44:33.923184,Rejected
+253,1,AM,2024-01-31 21:14:29.350089,Requesting credit of $500.46 for seller 223
+253,1,SAM,2024-02-02 12:14:29.350089,Approved
+254,1,AM,2024-08-17 21:19:19.961771,Requesting credit of $542.94 for seller 189
+254,1,SAM,2024-08-18 21:19:19.961771,Approved
+255,9,AM,2025-02-27 09:21:01.198422,Requesting credit of $550.78 for seller 131
+255,1,SAM,2025-02-28 19:21:01.198422,Approved
+256,18,AM,2025-02-25 13:25:27.413641,Requesting credit of $276.77 for seller 161
+256,5,SAM,2025-02-25 20:25:27.413641,Approved
+257,4,AM,2025-02-03 10:00:38.121396,Requesting credit of $751.69 for seller 162
+257,2,SAM,2025-02-04 06:00:38.121396,Approved
+258,15,AM,2024-01-07 02:31:10.667673,Requesting credit of $650.8 for seller 96
+258,2,SAM,2024-01-07 18:31:10.667673,Rejected
+259,8,AM,2024-07-27 15:42:15.053178,Requesting credit of $508.7 for seller 79
+259,5,SAM,2024-07-28 07:42:15.053178,Approved
+260,13,AM,2024-11-15 02:20:37.803534,Requesting credit of $257.98 for seller 211
+260,1,SAM,2024-11-16 03:20:37.803534,Approved
+261,4,AM,2024-05-22 01:09:32.778219,Requesting credit of $720.94 for seller 203
+261,2,SAM,2024-05-23 11:09:32.778219,Approved
+262,12,AM,2024-10-28 08:39:56.685446,Requesting credit of $243.3 for seller 181
+262,1,SAM,2024-10-29 23:39:56.685446,Approved
+263,13,AM,2024-01-08 10:02:37.735066,Requesting credit of $689.99 for seller 178
+263,1,SAM,2024-01-09 13:02:37.735066,Approved
+264,13,AM,2024-06-28 12:26:15.667850,Requesting credit of $364.37 for seller 37
+264,1,SAM,2024-06-29 05:26:15.667850,Approved
+265,8,AM,2024-09-04 14:38:11.712316,Requesting credit of $663.97 for seller 176
+265,5,SAM,2024-09-04 19:38:11.712316,Approved
+266,20,AM,2025-05-01 20:13:08.142957,Requesting credit of $595.17 for seller 16
+266,5,SAM,2025-05-02 12:13:08.142957,Approved
+267,13,AM,2025-01-20 23:02:39.970176,Requesting credit of $650.62 for seller 178
+267,1,SAM,2025-01-21 19:02:39.970176,Approved
+268,15,AM,2025-04-30 07:06:46.444182,Requesting credit of $775.42 for seller 276
+268,2,SAM,2025-05-01 09:06:46.444182,Approved
+269,8,AM,2024-08-16 03:30:56.287893,Requesting credit of $464.77 for seller 91
+269,5,SAM,2024-08-17 16:30:56.287893,Rejected
+270,8,AM,2025-03-28 03:41:50.720199,Requesting credit of $630.34 for seller 32
+270,5,SAM,2025-03-29 09:41:50.720199,Approved
+271,20,AM,2024-05-22 00:19:18.496547,Requesting credit of $450.4 for seller 202
+271,5,SAM,2024-05-23 12:19:18.496547,Approved
+272,20,AM,2025-03-01 13:39:35.537529,Requesting credit of $608.35 for seller 145
+272,5,SAM,2025-03-02 23:39:35.537529,Approved
+273,3,AM,2025-06-19 02:12:44.154565,Requesting credit of $668.37 for seller 69
+273,3,SAM,2025-06-19 06:12:44.154565,Rejected
+274,9,AM,2025-02-15 08:16:06.897329,Requesting credit of $701.24 for seller 186
+274,1,SAM,2025-02-17 08:16:06.897329,Approved
+275,10,AM,2024-12-17 20:22:54.499518,Requesting credit of $388.28 for seller 66
+275,5,SAM,2024-12-19 09:22:54.499518,Approved
+276,2,AM,2025-03-02 23:13:13.464923,Requesting credit of $583.71 for seller 84
+276,1,SAM,2025-03-03 08:13:13.464923,Approved
+277,9,AM,2025-08-28 07:33:05.771053,Requesting credit of $372.62 for seller 88
+277,1,SAM,2025-08-30 04:33:05.771053,Approved
+278,5,AM,2024-01-23 14:22:33.963875,Requesting credit of $267.56 for seller 249
+278,2,SAM,2024-01-25 05:22:33.963875,Approved
+279,4,AM,2025-02-17 05:57:57.592179,Requesting credit of $721.81 for seller 65
+279,2,SAM,2025-02-19 02:57:57.592179,Approved
+280,5,AM,2025-04-14 05:09:08.127633,Requesting credit of $473.16 for seller 134
+280,2,SAM,2025-04-14 11:09:08.127633,Approved
+281,20,AM,2024-08-07 01:24:30.604850,Requesting credit of $428.49 for seller 63
+281,5,SAM,2024-08-07 07:24:30.604850,Approved
+282,3,AM,2024-03-01 23:23:24.722513,Requesting credit of $215.61 for seller 220
+282,3,SAM,2024-03-02 14:23:24.722513,Approved
+283,2,AM,2024-09-02 08:15:06.816266,Requesting credit of $433.4 for seller 112
+283,1,SAM,2024-09-02 16:15:06.816266,Approved
+284,4,AM,2025-04-02 10:33:00.101069,Requesting credit of $729.87 for seller 294
+284,2,SAM,2025-04-03 11:33:00.101069,Approved
+285,5,AM,2025-04-10 07:36:39.768036,Requesting credit of $241.04 for seller 71
+285,2,SAM,2025-04-10 14:36:39.768036,Rejected
+286,8,AM,2025-08-03 05:09:59.442325,Requesting credit of $224.61 for seller 126
+286,5,SAM,2025-08-04 23:09:59.442325,Approved
+287,2,AM,2024-10-15 02:36:53.852769,Requesting credit of $217.84 for seller 121
+287,1,SAM,2024-10-16 13:36:53.852769,Approved
+288,15,AM,2024-03-08 05:00:51.827416,Requesting credit of $777.72 for seller 135
+288,2,SAM,2024-03-10 03:00:51.827416,Approved
+289,17,AM,2024-01-18 12:23:47.736391,Requesting credit of $445.97 for seller 122
+289,5,SAM,2024-01-18 21:23:47.736391,Approved
+290,13,AM,2025-04-26 03:47:49.937214,Requesting credit of $236.98 for seller 296
+290,1,SAM,2025-04-27 03:47:49.937214,Approved
+291,1,AM,2025-07-18 13:31:01.602592,Requesting credit of $701.6 for seller 57
+291,1,SAM,2025-07-19 10:31:01.602592,Approved
+292,5,AM,2024-02-02 04:11:59.152075,Requesting credit of $767.08 for seller 38
+292,2,SAM,2024-02-03 19:11:59.152075,Approved
+293,12,AM,2023-12-31 16:10:40.480530,Requesting credit of $718.8 for seller 164
+293,1,SAM,2024-01-02 10:10:40.480530,Approved
+294,12,AM,2025-03-28 15:06:34.870305,Requesting credit of $694.12 for seller 23
+294,1,SAM,2025-03-30 06:06:34.870305,Approved
+295,14,AM,2024-05-16 01:47:21.389485,Requesting credit of $719.68 for seller 130
+295,1,SAM,2024-05-16 15:47:21.389485,Approved
+296,9,AM,2025-01-04 12:29:58.295730,Requesting credit of $348.75 for seller 278
+296,1,SAM,2025-01-05 09:29:58.295730,Approved
+297,2,AM,2024-10-15 23:41:18.309077,Requesting credit of $466.44 for seller 67
+297,1,SAM,2024-10-17 19:41:18.309077,Approved
+298,3,AM,2025-02-13 22:04:28.406523,Requesting credit of $313.27 for seller 69
+298,3,SAM,2025-02-15 03:04:28.406523,Approved
+299,2,AM,2025-05-14 21:20:36.147172,Requesting credit of $795.93 for seller 123
+299,1,SAM,2025-05-16 04:20:36.147172,Approved
+300,2,AM,2025-03-25 19:11:28.586453,Requesting credit of $698.46 for seller 234
+300,1,SAM,2025-03-27 13:11:28.586453,Approved
+301,3,AM,2024-05-16 17:59:02.420726,Requesting credit of $481.0 for seller 85
+301,3,SAM,2024-05-18 17:59:02.420726,Approved
+302,5,AM,2024-11-28 20:03:01.210938,Requesting credit of $636.93 for seller 163
+302,2,SAM,2024-11-30 01:03:01.210938,Approved
+303,18,AM,2025-06-30 02:14:36.225348,Requesting credit of $478.13 for seller 281
+303,5,SAM,2025-06-30 07:14:36.225348,Approved
+304,5,AM,2024-12-19 03:35:06.800659,Requesting credit of $626.6 for seller 236
+304,2,SAM,2024-12-21 03:35:06.800659,Rejected
+305,13,AM,2024-07-19 06:59:57.945763,Requesting credit of $319.73 for seller 29
+305,1,SAM,2024-07-20 01:59:57.945763,Approved
+306,15,AM,2024-04-20 12:25:13.321980,Requesting credit of $566.42 for seller 276
+306,2,SAM,2024-04-22 06:25:13.321980,Approved
+307,9,AM,2025-04-29 01:59:27.325424,Requesting credit of $214.06 for seller 156
+307,1,SAM,2025-04-30 04:59:27.325424,Approved
+308,2,AM,2024-12-10 16:42:14.339479,Requesting credit of $370.12 for seller 123
+308,1,SAM,2024-12-12 14:42:14.339479,Approved
+309,10,AM,2024-01-05 22:56:28.953987,Requesting credit of $624.33 for seller 212
+309,5,SAM,2024-01-06 23:56:28.953987,Approved
+310,20,AM,2025-02-05 06:10:30.422608,Requesting credit of $441.69 for seller 225
+310,5,SAM,2025-02-06 19:10:30.422608,Approved
+311,9,AM,2024-11-01 21:35:34.529088,Requesting credit of $330.71 for seller 22
+311,1,SAM,2024-11-03 20:35:34.529088,Approved
+312,13,AM,2024-11-07 17:30:36.047517,Requesting credit of $609.39 for seller 114
+312,1,SAM,2024-11-08 15:30:36.047517,Approved
+313,19,AM,2024-10-12 23:56:59.502674,Requesting credit of $246.52 for seller 42
+313,1,SAM,2024-10-14 00:56:59.502674,Approved
+314,3,AM,2024-11-03 04:35:14.673078,Requesting credit of $685.91 for seller 220
+314,3,SAM,2024-11-05 04:35:14.673078,Approved
+315,15,AM,2024-06-25 18:55:52.904342,Requesting credit of $206.16 for seller 96
+315,2,SAM,2024-06-25 23:55:52.904342,Approved
+316,6,AM,2024-01-17 00:48:04.904062,Requesting credit of $596.79 for seller 273
+316,2,SAM,2024-01-18 13:48:04.904062,Approved
+317,12,AM,2025-05-12 17:12:34.212497,Requesting credit of $438.43 for seller 76
+317,1,SAM,2025-05-14 13:12:34.212497,Approved
+318,13,AM,2024-03-15 23:15:02.104734,Requesting credit of $708.71 for seller 267
+318,1,SAM,2024-03-16 15:15:02.104734,Approved
+319,17,AM,2024-11-25 04:06:41.028220,Requesting credit of $799.13 for seller 122
+319,5,SAM,2024-11-25 12:06:41.028220,Approved
+320,19,AM,2024-01-23 00:29:45.977038,Requesting credit of $372.59 for seller 289
+320,1,SAM,2024-01-24 09:29:45.977038,Approved
+321,4,AM,2023-12-25 05:38:54.743967,Requesting credit of $658.77 for seller 298
+321,2,SAM,2023-12-26 09:38:54.743967,Approved
+322,4,AM,2024-03-29 08:05:02.058286,Requesting credit of $698.05 for seller 53
+322,2,SAM,2024-03-31 07:05:02.058286,Approved
+323,8,AM,2024-09-12 23:27:58.705439,Requesting credit of $403.64 for seller 19
+323,5,SAM,2024-09-13 23:27:58.705439,Approved
+324,20,AM,2024-05-20 10:47:19.723309,Requesting credit of $425.38 for seller 145
+324,5,SAM,2024-05-21 16:47:19.723309,Approved
+325,13,AM,2024-04-17 16:10:13.897584,Requesting credit of $565.75 for seller 266
+325,1,SAM,2024-04-19 16:10:13.897584,Approved
+326,2,AM,2024-09-02 11:59:32.001021,Requesting credit of $258.56 for seller 67
+326,1,SAM,2024-09-02 23:59:32.001021,Approved
+327,12,AM,2025-03-15 08:56:53.450387,Requesting credit of $348.03 for seller 23
+327,1,SAM,2025-03-16 19:56:53.450387,Approved
+328,3,AM,2024-09-06 20:10:15.174043,Requesting credit of $205.66 for seller 271
+328,3,SAM,2024-09-08 02:10:15.174043,Approved
+329,14,AM,2025-02-10 01:05:36.762693,Requesting credit of $558.52 for seller 255
+329,1,SAM,2025-02-11 17:05:36.762693,Rejected
+330,20,AM,2025-01-17 22:13:02.693455,Requesting credit of $717.0 for seller 145
+330,5,SAM,2025-01-18 20:13:02.693455,Approved
+331,4,AM,2024-04-14 23:51:44.300475,Requesting credit of $724.94 for seller 21
+331,2,SAM,2024-04-15 10:51:44.300475,Approved
+332,17,AM,2024-08-20 19:57:33.747803,Requesting credit of $664.28 for seller 204
+332,5,SAM,2024-08-22 03:57:33.747803,Approved
+333,5,AM,2024-05-15 08:36:25.349800,Requesting credit of $527.51 for seller 163
+333,2,SAM,2024-05-16 16:36:25.349800,Approved
+334,4,AM,2025-02-01 06:50:33.923005,Requesting credit of $733.45 for seller 294
+334,2,SAM,2025-02-01 23:50:33.923005,Approved
+335,14,AM,2025-08-03 15:34:14.026596,Requesting credit of $452.68 for seller 5
+335,1,SAM,2025-08-04 05:34:14.026596,Approved
+336,17,AM,2024-02-15 00:54:41.085396,Requesting credit of $335.22 for seller 77
+336,5,SAM,2024-02-16 14:54:41.085396,Approved
+337,15,AM,2025-07-15 11:12:00.577831,Requesting credit of $420.92 for seller 96
+337,2,SAM,2025-07-16 08:12:00.577831,Approved
+338,13,AM,2025-02-12 09:19:09.454643,Requesting credit of $765.33 for seller 37
+338,1,SAM,2025-02-12 16:19:09.454643,Approved
+339,13,AM,2024-10-02 03:36:13.641354,Requesting credit of $482.03 for seller 49
+339,1,SAM,2024-10-03 03:36:13.641354,Approved
+340,18,AM,2024-12-12 05:50:41.393207,Requesting credit of $283.01 for seller 188
+340,5,SAM,2024-12-14 01:50:41.393207,Approved
+341,7,AM,2024-10-29 08:14:40.843256,Requesting credit of $672.44 for seller 100
+341,1,SAM,2024-10-30 13:14:40.843256,Approved
+342,19,AM,2025-04-02 14:32:46.772346,Requesting credit of $262.09 for seller 68
+342,1,SAM,2025-04-03 14:32:46.772346,Approved
+343,15,AM,2024-08-20 13:33:02.853699,Requesting credit of $473.82 for seller 216
+343,2,SAM,2024-08-22 09:33:02.853699,Approved
+344,19,AM,2025-08-01 08:59:38.609854,Requesting credit of $388.98 for seller 82
+344,1,SAM,2025-08-02 15:59:38.609854,Approved
+345,5,AM,2025-02-08 00:25:09.525395,Requesting credit of $253.72 for seller 163
+345,2,SAM,2025-02-09 16:25:09.525395,Approved
+346,9,AM,2024-10-18 03:48:55.886081,Requesting credit of $735.85 for seller 185
+346,1,SAM,2024-10-19 23:48:55.886081,Approved
+347,11,AM,2024-10-14 02:51:17.327761,Requesting credit of $240.13 for seller 86
+347,4,SAM,2024-10-14 06:51:17.327761,Approved
+348,7,AM,2025-04-10 14:43:20.453266,Requesting credit of $768.27 for seller 213
+348,1,SAM,2025-04-11 04:43:20.453266,Approved
+349,15,AM,2025-06-21 17:03:51.197511,Requesting credit of $618.17 for seller 226
+349,2,SAM,2025-06-22 20:03:51.197511,Approved
+350,7,AM,2025-02-22 01:02:06.570493,Requesting credit of $557.78 for seller 111
+350,1,SAM,2025-02-23 08:02:06.570493,Approved
+351,9,AM,2024-08-22 08:20:56.850129,Requesting credit of $474.31 for seller 274
+351,1,SAM,2024-08-24 01:20:56.850129,Approved
+352,7,AM,2025-01-18 14:21:39.954822,Requesting credit of $221.87 for seller 89
+352,1,SAM,2025-01-19 21:21:39.954822,Approved
+353,20,AM,2025-05-13 22:04:00.070325,Requesting credit of $200.57 for seller 210
+353,5,SAM,2025-05-14 08:04:00.070325,Approved
+354,1,AM,2025-05-21 04:19:54.582945,Requesting credit of $328.72 for seller 183
+354,1,SAM,2025-05-21 12:19:54.582945,Approved
+355,15,AM,2025-03-15 19:38:20.668240,Requesting credit of $308.51 for seller 268
+355,2,SAM,2025-03-16 12:38:20.668240,Approved
+356,9,AM,2024-04-24 17:41:21.742475,Requesting credit of $798.76 for seller 34
+356,1,SAM,2024-04-25 02:41:21.742475,Approved
+357,16,AM,2025-03-17 23:35:04.567279,Requesting credit of $348.23 for seller 110
+357,2,SAM,2025-03-18 23:35:04.567279,Approved
+358,6,AM,2024-01-02 23:09:28.652702,Requesting credit of $658.91 for seller 173
+358,2,SAM,2024-01-04 17:09:28.652702,Approved
+359,3,AM,2024-12-29 18:51:05.681253,Requesting credit of $476.43 for seller 18
+359,3,SAM,2024-12-30 11:51:05.681253,Approved
+360,11,AM,2024-05-22 05:17:56.568631,Requesting credit of $728.11 for seller 31
+360,4,SAM,2024-05-23 00:17:56.568631,Approved
+361,2,AM,2024-12-19 17:05:52.103320,Requesting credit of $528.58 for seller 107
+361,1,SAM,2024-12-19 21:05:52.103320,Approved
+362,5,AM,2024-05-04 06:45:31.929850,Requesting credit of $218.98 for seller 251
+362,2,SAM,2024-05-05 20:45:31.929850,Approved
+363,5,AM,2024-11-10 14:42:57.317642,Requesting credit of $655.05 for seller 158
+363,2,SAM,2024-11-10 22:42:57.317642,Rejected
+364,17,AM,2025-02-12 00:58:05.590068,Requesting credit of $372.14 for seller 59
+364,5,SAM,2025-02-13 20:58:05.590068,Approved
+365,20,AM,2024-12-02 14:29:12.834005,Requesting credit of $309.99 for seller 193
+365,5,SAM,2024-12-04 04:29:12.834005,Approved
+366,13,AM,2024-08-08 21:44:38.750038,Requesting credit of $437.73 for seller 49
+366,1,SAM,2024-08-09 10:44:38.750038,Approved
+367,7,AM,2025-05-18 11:36:31.133203,Requesting credit of $321.77 for seller 25
+367,1,SAM,2025-05-19 06:36:31.133203,Rejected
+368,3,AM,2024-04-27 11:37:11.713464,Requesting credit of $348.03 for seller 138
+368,3,SAM,2024-04-29 06:37:11.713464,Approved
+369,9,AM,2025-04-06 19:32:09.189552,Requesting credit of $408.38 for seller 153
+369,1,SAM,2025-04-07 07:32:09.189552,Approved
+370,4,AM,2024-03-23 20:05:44.092140,Requesting credit of $321.31 for seller 97
+370,2,SAM,2024-03-24 10:05:44.092140,Approved
+371,3,AM,2024-05-30 20:54:29.245943,Requesting credit of $429.31 for seller 26
+371,3,SAM,2024-05-31 21:54:29.245943,Approved
+372,3,AM,2024-12-23 09:15:23.846624,Requesting credit of $751.95 for seller 252
+372,3,SAM,2024-12-24 20:15:23.846624,Approved
+373,13,AM,2024-02-28 02:42:47.402437,Requesting credit of $799.04 for seller 209
+373,1,SAM,2024-02-28 16:42:47.402437,Approved
+374,7,AM,2024-03-13 09:57:48.248107,Requesting credit of $672.02 for seller 35
+374,1,SAM,2024-03-13 13:57:48.248107,Rejected
+375,4,AM,2024-08-12 14:07:57.326342,Requesting credit of $248.86 for seller 93
+375,2,SAM,2024-08-13 03:07:57.326342,Approved
+376,2,AM,2024-11-02 00:02:19.288850,Requesting credit of $737.79 for seller 192
+376,1,SAM,2024-11-02 19:02:19.288850,Approved
+377,10,AM,2024-12-15 13:41:54.626123,Requesting credit of $668.61 for seller 295
+377,5,SAM,2024-12-16 00:41:54.626123,Approved
+378,3,AM,2025-08-16 15:15:04.903519,Requesting credit of $495.99 for seller 141
+378,3,SAM,2025-08-16 23:15:04.903519,Approved
+379,4,AM,2024-06-12 21:46:25.380749,Requesting credit of $429.76 for seller 53
+379,2,SAM,2024-06-14 12:46:25.380749,Approved
+380,8,AM,2024-03-03 10:09:07.600811,Requesting credit of $684.93 for seller 169
+380,5,SAM,2024-03-04 05:09:07.600811,Approved
+381,13,AM,2024-04-28 21:20:48.213525,Requesting credit of $744.14 for seller 114
+381,1,SAM,2024-04-29 16:20:48.213525,Approved
+382,8,AM,2025-03-21 08:02:12.986205,Requesting credit of $628.54 for seller 232
+382,5,SAM,2025-03-22 09:02:12.986205,Rejected
+383,20,AM,2024-03-22 13:12:53.379046,Requesting credit of $490.93 for seller 11
+383,5,SAM,2024-03-24 02:12:53.379046,Approved
+384,19,AM,2024-12-23 22:36:42.920457,Requesting credit of $614.84 for seller 258
+384,1,SAM,2024-12-24 07:36:42.920457,Rejected
+385,8,AM,2024-12-28 12:28:00.654912,Requesting credit of $201.48 for seller 32
+385,5,SAM,2024-12-29 21:28:00.654912,Approved
+386,4,AM,2025-01-12 21:55:44.651601,Requesting credit of $770.71 for seller 231
+386,2,SAM,2025-01-14 17:55:44.651601,Approved
+387,5,AM,2024-07-31 21:59:21.053229,Requesting credit of $752.28 for seller 38
+387,2,SAM,2024-08-02 19:59:21.053229,Approved
+388,18,AM,2024-12-02 16:39:20.000963,Requesting credit of $494.14 for seller 30
+388,5,SAM,2024-12-04 16:39:20.000963,Approved
+389,20,AM,2025-05-15 05:09:55.277474,Requesting credit of $757.05 for seller 48
+389,5,SAM,2025-05-15 17:09:55.277474,Approved
+390,20,AM,2025-04-06 12:41:27.602054,Requesting credit of $420.24 for seller 269
+390,5,SAM,2025-04-07 12:41:27.602054,Approved
+391,1,AM,2024-09-04 20:30:56.486244,Requesting credit of $518.05 for seller 223
+391,1,SAM,2024-09-06 05:30:56.486244,Approved
+392,14,AM,2025-04-29 23:19:10.710187,Requesting credit of $569.89 for seller 94
+392,1,SAM,2025-04-30 05:19:10.710187,Approved
+393,5,AM,2024-10-12 13:33:12.378697,Requesting credit of $734.05 for seller 158
+393,2,SAM,2024-10-14 01:33:12.378697,Rejected
+394,6,AM,2024-04-10 22:51:33.159861,Requesting credit of $498.95 for seller 28
+394,2,SAM,2024-04-12 06:51:33.159861,Approved
+395,18,AM,2025-08-07 12:55:17.294061,Requesting credit of $715.36 for seller 13
+395,5,SAM,2025-08-07 23:55:17.294061,Rejected
+396,9,AM,2024-10-17 22:54:15.187672,Requesting credit of $242.14 for seller 34
+396,1,SAM,2024-10-19 01:54:15.187672,Approved
+397,12,AM,2024-12-26 01:44:51.219613,Requesting credit of $562.46 for seller 167
+397,1,SAM,2024-12-26 06:44:51.219613,Approved
+398,4,AM,2024-06-11 22:15:27.135460,Requesting credit of $642.55 for seller 298
+398,2,SAM,2024-06-12 09:15:27.135460,Rejected
+399,9,AM,2025-01-09 14:11:30.349643,Requesting credit of $609.78 for seller 190
+399,1,SAM,2025-01-11 01:11:30.349643,Rejected
+400,19,AM,2024-03-19 15:47:44.510566,Requesting credit of $322.5 for seller 227
+400,1,SAM,2024-03-20 12:47:44.510566,Approved
+401,20,AM,2025-02-24 01:21:17.907458,Requesting credit of $503.69 for seller 299
+401,5,SAM,2025-02-25 22:21:17.907458,Approved
+402,6,AM,2024-04-27 14:47:32.796897,Requesting credit of $333.89 for seller 159
+402,2,SAM,2024-04-28 18:47:32.796897,Approved
+403,15,AM,2024-05-15 10:19:24.580476,Requesting credit of $214.19 for seller 135
+403,2,SAM,2024-05-15 15:19:24.580476,Approved
+404,4,AM,2025-05-20 16:58:45.356487,Requesting credit of $457.96 for seller 235
+404,2,SAM,2025-05-21 18:58:45.356487,Approved
+405,18,AM,2024-07-13 15:36:15.423632,Requesting credit of $310.32 for seller 161
+405,5,SAM,2024-07-15 09:36:15.423632,Approved
+406,16,AM,2024-09-25 03:08:12.670656,Requesting credit of $595.25 for seller 288
+406,2,SAM,2024-09-26 16:08:12.670656,Approved
+407,3,AM,2025-08-13 07:09:27.241173,Requesting credit of $604.8 for seller 105
+407,3,SAM,2025-08-15 05:09:27.241173,Approved
+408,8,AM,2025-04-18 18:23:41.889888,Requesting credit of $509.01 for seller 2
+408,5,SAM,2025-04-20 10:23:41.889888,Approved
+409,4,AM,2025-08-20 14:02:52.191426,Requesting credit of $293.22 for seller 65
+409,2,SAM,2025-08-22 07:02:52.191426,Approved
+410,12,AM,2025-02-24 13:48:00.278478,Requesting credit of $432.11 for seller 260
+410,1,SAM,2025-02-26 05:48:00.278478,Approved
+411,8,AM,2024-10-24 10:37:10.906323,Requesting credit of $792.98 for seller 79
+411,5,SAM,2024-10-25 01:37:10.906323,Approved
+412,9,AM,2025-04-04 07:17:02.309548,Requesting credit of $623.92 for seller 185
+412,1,SAM,2025-04-04 12:17:02.309548,Approved
+413,13,AM,2024-03-25 22:33:17.097874,Requesting credit of $517.84 for seller 266
+413,1,SAM,2024-03-26 23:33:17.097874,Approved
+414,15,AM,2024-11-11 01:12:13.098486,Requesting credit of $262.29 for seller 96
+414,2,SAM,2024-11-11 14:12:13.098486,Approved
+415,20,AM,2025-04-29 02:01:20.638264,Requesting credit of $633.7 for seller 145
+415,5,SAM,2025-04-29 10:01:20.638264,Approved
+416,12,AM,2025-03-14 13:57:05.941457,Requesting credit of $350.72 for seller 168
+416,1,SAM,2025-03-15 13:57:05.941457,Approved
+417,1,AM,2024-05-06 05:31:26.173167,Requesting credit of $414.36 for seller 157
+417,1,SAM,2024-05-06 20:31:26.173167,Approved
+418,3,AM,2025-01-08 10:10:04.117517,Requesting credit of $799.14 for seller 45
+418,3,SAM,2025-01-09 04:10:04.117517,Approved
+419,8,AM,2024-10-02 15:06:32.753923,Requesting credit of $529.47 for seller 91
+419,5,SAM,2024-10-02 19:06:32.753923,Approved
+420,3,AM,2024-07-30 08:25:09.731621,Requesting credit of $754.06 for seller 70
+420,3,SAM,2024-08-01 02:25:09.731621,Approved
+421,20,AM,2024-05-14 15:20:23.399752,Requesting credit of $547.54 for seller 48
+421,5,SAM,2024-05-16 02:20:23.399752,Approved
+422,6,AM,2024-11-07 05:06:34.695693,Requesting credit of $253.99 for seller 109
+422,2,SAM,2024-11-09 03:06:34.695693,Approved
+423,11,AM,2024-02-22 16:13:15.284154,Requesting credit of $316.83 for seller 277
+423,4,SAM,2024-02-24 16:13:15.284154,Rejected
+424,18,AM,2025-08-22 20:58:36.492776,Requesting credit of $287.11 for seller 27
+424,5,SAM,2025-08-24 04:58:36.492776,Approved
+425,17,AM,2025-03-28 02:48:20.154052,Requesting credit of $562.12 for seller 122
+425,5,SAM,2025-03-29 04:48:20.154052,Approved
+426,20,AM,2024-02-13 01:24:27.054708,Requesting credit of $253.92 for seller 145
+426,5,SAM,2024-02-13 15:24:27.054708,Approved
+427,8,AM,2024-09-24 23:11:39.559118,Requesting credit of $614.49 for seller 2
+427,5,SAM,2024-09-25 09:11:39.559118,Rejected
+428,9,AM,2024-10-15 14:24:45.422935,Requesting credit of $566.99 for seller 279
+428,1,SAM,2024-10-16 15:24:45.422935,Approved
+429,5,AM,2024-08-14 02:02:59.062854,Requesting credit of $286.43 for seller 163
+429,2,SAM,2024-08-15 20:02:59.062854,Approved
+430,19,AM,2025-07-14 04:42:08.294895,Requesting credit of $613.48 for seller 42
+430,1,SAM,2025-07-16 04:42:08.294895,Approved
+431,1,AM,2024-11-29 08:20:31.996580,Requesting credit of $216.71 for seller 223
+431,1,SAM,2024-11-29 18:20:31.996580,Rejected
+432,13,AM,2024-06-25 19:12:36.484137,Requesting credit of $757.4 for seller 228
+432,1,SAM,2024-06-25 23:12:36.484137,Approved
+433,13,AM,2024-12-31 17:34:45.743778,Requesting credit of $367.36 for seller 206
+433,1,SAM,2025-01-01 03:34:45.743778,Rejected
+434,14,AM,2024-09-11 07:22:49.706425,Requesting credit of $756.84 for seller 5
+434,1,SAM,2024-09-12 06:22:49.706425,Approved
+435,17,AM,2024-01-21 00:54:39.414057,Requesting credit of $374.34 for seller 199
+435,5,SAM,2024-01-22 04:54:39.414057,Approved
+436,12,AM,2024-05-17 06:59:09.860713,Requesting credit of $692.14 for seller 181
+436,1,SAM,2024-05-18 14:59:09.860713,Approved
+437,13,AM,2025-01-12 05:57:39.635039,Requesting credit of $273.28 for seller 229
+437,1,SAM,2025-01-12 14:57:39.635039,Approved
+438,14,AM,2025-02-24 13:57:27.664180,Requesting credit of $321.3 for seller 165
+438,1,SAM,2025-02-24 20:57:27.664180,Approved
+439,6,AM,2024-12-03 00:41:36.327893,Requesting credit of $200.2 for seller 124
+439,2,SAM,2024-12-04 16:41:36.327893,Approved
+440,5,AM,2024-02-17 09:07:01.131862,Requesting credit of $507.05 for seller 251
+440,2,SAM,2024-02-18 22:07:01.131862,Approved
+441,6,AM,2024-05-27 11:55:10.749344,Requesting credit of $276.85 for seller 218
+441,2,SAM,2024-05-28 02:55:10.749344,Approved
+442,6,AM,2024-05-07 06:14:54.434770,Requesting credit of $670.15 for seller 47
+442,2,SAM,2024-05-08 13:14:54.434770,Rejected
+443,9,AM,2025-07-31 08:53:00.156790,Requesting credit of $697.03 for seller 186
+443,1,SAM,2025-08-01 04:53:00.156790,Approved
+444,8,AM,2025-05-06 06:28:30.209345,Requesting credit of $416.24 for seller 32
+444,5,SAM,2025-05-07 11:28:30.209345,Approved
+445,8,AM,2025-03-23 20:21:23.561975,Requesting credit of $776.49 for seller 182
+445,5,SAM,2025-03-25 13:21:23.561975,Approved
+446,19,AM,2024-09-07 02:21:50.473759,Requesting credit of $396.23 for seller 128
+446,1,SAM,2024-09-08 19:21:50.473759,Approved
+447,5,AM,2024-03-04 11:20:30.034854,Requesting credit of $762.44 for seller 44
+447,2,SAM,2024-03-05 09:20:30.034854,Approved
+448,17,AM,2025-05-25 03:14:20.662737,Requesting credit of $372.86 for seller 87
+448,5,SAM,2025-05-26 19:14:20.662737,Approved
+449,8,AM,2024-08-28 10:34:39.940224,Requesting credit of $688.67 for seller 232
+449,5,SAM,2024-08-30 05:34:39.940224,Approved
+450,4,AM,2025-01-24 19:15:18.506268,Requesting credit of $740.86 for seller 162
+450,2,SAM,2025-01-25 02:15:18.506268,Approved
+451,3,AM,2025-07-31 14:25:15.208230,Requesting credit of $280.99 for seller 18
+451,3,SAM,2025-08-01 13:25:15.208230,Approved
+452,17,AM,2025-06-12 20:00:07.707006,Requesting credit of $580.93 for seller 204
+452,5,SAM,2025-06-13 08:00:07.707006,Approved
+453,19,AM,2025-06-24 22:25:23.436878,Requesting credit of $344.69 for seller 289
+453,1,SAM,2025-06-26 16:25:23.436878,Approved
+454,6,AM,2024-04-06 01:46:16.840700,Requesting credit of $323.37 for seller 62
+454,2,SAM,2024-04-07 14:46:16.840700,Approved
+455,1,AM,2024-01-22 18:53:53.904773,Requesting credit of $249.01 for seller 284
+455,1,SAM,2024-01-24 06:53:53.904773,Approved
+456,18,AM,2024-06-23 13:07:21.004552,Requesting credit of $281.13 for seller 13
+456,5,SAM,2024-06-24 05:07:21.004552,Approved
+457,6,AM,2024-09-01 19:02:45.512659,Requesting credit of $378.57 for seller 109
+457,2,SAM,2024-09-02 22:02:45.512659,Approved
+458,3,AM,2024-09-03 17:28:12.786041,Requesting credit of $432.86 for seller 108
+458,3,SAM,2024-09-05 16:28:12.786041,Rejected
+459,4,AM,2024-01-03 03:43:28.030528,Requesting credit of $717.63 for seller 298
+459,2,SAM,2024-01-04 20:43:28.030528,Approved
+460,15,AM,2024-08-05 18:04:17.446215,Requesting credit of $233.67 for seller 241
+460,2,SAM,2024-08-06 16:04:17.446215,Rejected
+461,1,AM,2024-02-05 16:23:32.913392,Requesting credit of $354.4 for seller 174
+461,1,SAM,2024-02-06 10:23:32.913392,Approved
+462,13,AM,2024-05-24 00:43:43.640828,Requesting credit of $740.89 for seller 267
+462,1,SAM,2024-05-25 23:43:43.640828,Rejected
+463,18,AM,2024-05-17 01:17:34.248923,Requesting credit of $676.11 for seller 52
+463,5,SAM,2024-05-17 19:17:34.248923,Approved
+464,8,AM,2024-01-21 08:00:11.733776,Requesting credit of $492.8 for seller 126
+464,5,SAM,2024-01-22 10:00:11.733776,Approved
+465,13,AM,2024-07-02 11:39:09.910968,Requesting credit of $275.43 for seller 267
+465,1,SAM,2024-07-03 16:39:09.910968,Approved
+466,6,AM,2024-02-05 05:26:55.783948,Requesting credit of $241.2 for seller 159
+466,2,SAM,2024-02-06 23:26:55.783948,Approved
+467,9,AM,2024-06-11 23:05:13.723449,Requesting credit of $410.33 for seller 197
+467,1,SAM,2024-06-12 20:05:13.723449,Approved
+468,2,AM,2024-02-02 14:10:02.212210,Requesting credit of $771.91 for seller 192
+468,1,SAM,2024-02-04 03:10:02.212210,Approved
+469,15,AM,2024-09-04 09:28:50.326731,Requesting credit of $463.0 for seller 96
+469,2,SAM,2024-09-06 08:28:50.326731,Approved
+470,10,AM,2025-02-22 16:30:03.415337,Requesting credit of $441.42 for seller 66
+470,5,SAM,2025-02-23 22:30:03.415337,Approved
+471,13,AM,2024-11-27 11:01:59.093323,Requesting credit of $517.05 for seller 98
+471,1,SAM,2024-11-28 12:01:59.093323,Approved
+472,19,AM,2025-02-04 10:48:15.789595,Requesting credit of $610.27 for seller 3
+472,1,SAM,2025-02-05 22:48:15.789595,Approved
+473,20,AM,2024-03-26 16:37:13.102314,Requesting credit of $720.26 for seller 125
+473,5,SAM,2024-03-27 02:37:13.102314,Approved
+474,9,AM,2024-03-26 03:33:40.633092,Requesting credit of $593.2 for seller 197
+474,1,SAM,2024-03-28 02:33:40.633092,Approved
+475,13,AM,2024-03-14 19:27:25.249992,Requesting credit of $303.13 for seller 29
+475,1,SAM,2024-03-16 01:27:25.249992,Approved
+476,4,AM,2025-07-25 14:25:08.748713,Requesting credit of $726.16 for seller 298
+476,2,SAM,2025-07-27 00:25:08.748713,Rejected
+477,1,AM,2025-06-24 12:32:35.316907,Requesting credit of $213.51 for seller 189
+477,1,SAM,2025-06-25 04:32:35.316907,Approved
+478,15,AM,2024-11-21 18:32:35.275780,Requesting credit of $766.08 for seller 276
+478,2,SAM,2024-11-22 07:32:35.275780,Approved
+479,11,AM,2024-10-05 08:03:58.736598,Requesting credit of $558.54 for seller 80
+479,4,SAM,2024-10-05 21:03:58.736598,Approved
+480,6,AM,2024-07-07 15:15:01.876272,Requesting credit of $520.6 for seller 28
+480,2,SAM,2024-07-08 15:15:01.876272,Approved
+481,11,AM,2024-12-19 14:07:12.250457,Requesting credit of $720.03 for seller 152
+481,4,SAM,2024-12-21 06:07:12.250457,Approved
+482,7,AM,2025-03-06 16:15:33.391845,Requesting credit of $707.19 for seller 35
+482,1,SAM,2025-03-07 23:15:33.391845,Approved
+483,17,AM,2024-02-16 12:28:39.268232,Requesting credit of $474.99 for seller 187
+483,5,SAM,2024-02-18 02:28:39.268232,Approved
+484,8,AM,2024-09-15 00:32:08.483325,Requesting credit of $329.93 for seller 172
+484,5,SAM,2024-09-15 16:32:08.483325,Rejected
+485,14,AM,2024-01-24 04:24:13.640104,Requesting credit of $348.89 for seller 94
+485,1,SAM,2024-01-25 03:24:13.640104,Approved
+486,17,AM,2025-03-16 01:00:17.236423,Requesting credit of $579.75 for seller 58
+486,5,SAM,2025-03-17 00:00:17.236423,Approved
+487,11,AM,2024-02-18 21:58:19.118997,Requesting credit of $562.71 for seller 86
+487,4,SAM,2024-02-20 20:58:19.118997,Approved
+488,6,AM,2024-07-27 13:54:25.916730,Requesting credit of $588.52 for seller 103
+488,2,SAM,2024-07-28 03:54:25.916730,Approved
+489,13,AM,2025-06-29 18:28:08.304803,Requesting credit of $529.33 for seller 211
+489,1,SAM,2025-06-30 11:28:08.304803,Approved
+490,8,AM,2025-03-26 18:37:50.037171,Requesting credit of $653.8 for seller 244
+490,5,SAM,2025-03-27 22:37:50.037171,Approved
+491,19,AM,2024-07-30 09:21:40.449256,Requesting credit of $722.24 for seller 300
+491,1,SAM,2024-08-01 07:21:40.449256,Approved
+492,19,AM,2025-07-25 07:01:03.455479,Requesting credit of $277.86 for seller 42
+492,1,SAM,2025-07-26 11:01:03.455479,Approved
+493,19,AM,2025-01-15 21:10:59.347148,Requesting credit of $790.38 for seller 289
+493,1,SAM,2025-01-16 20:10:59.347148,Approved
+494,4,AM,2025-08-07 00:16:35.822703,Requesting credit of $355.56 for seller 78
+494,2,SAM,2025-08-08 06:16:35.822703,Approved
+495,3,AM,2025-01-09 11:28:02.492696,Requesting credit of $737.74 for seller 155
+495,3,SAM,2025-01-09 21:28:02.492696,Approved
+496,15,AM,2024-03-09 21:48:49.917940,Requesting credit of $535.2 for seller 238
+496,2,SAM,2024-03-11 03:48:49.917940,Approved
+497,13,AM,2024-04-29 01:39:15.704541,Requesting credit of $397.78 for seller 270
+497,1,SAM,2024-05-01 01:39:15.704541,Approved
+498,3,AM,2024-05-20 00:08:53.341865,Requesting credit of $583.95 for seller 252
+498,3,SAM,2024-05-21 16:08:53.341865,Approved
+499,14,AM,2024-05-07 06:36:04.351606,Requesting credit of $652.44 for seller 255
+499,1,SAM,2024-05-08 02:36:04.351606,Approved
+500,20,AM,2024-04-03 15:58:58.135248,Requesting credit of $399.13 for seller 125
+500,5,SAM,2024-04-04 01:58:58.135248,Approved
+501,9,AM,2024-10-11 06:49:18.079173,Requesting credit of $503.37 for seller 154
+501,1,SAM,2024-10-12 13:49:18.079173,Approved
+502,9,AM,2025-06-29 23:42:19.321125,Requesting credit of $285.27 for seller 274
+502,1,SAM,2025-07-01 21:42:19.321125,Approved
+503,3,AM,2024-05-18 06:32:02.472173,Requesting credit of $792.65 for seller 69
+503,3,SAM,2024-05-19 09:32:02.472173,Approved
+504,9,AM,2025-06-06 04:49:16.672600,Requesting credit of $380.68 for seller 131
+504,1,SAM,2025-06-08 04:49:16.672600,Approved
+505,1,AM,2024-03-10 01:26:50.341879,Requesting credit of $734.08 for seller 57
+505,1,SAM,2024-03-12 01:26:50.341879,Approved
+506,20,AM,2024-12-24 21:14:16.234194,Requesting credit of $553.34 for seller 193
+506,5,SAM,2024-12-26 07:14:16.234194,Approved
+507,10,AM,2024-07-27 04:08:11.208459,Requesting credit of $569.52 for seller 66
+507,5,SAM,2024-07-28 23:08:11.208459,Rejected
+508,11,AM,2025-07-08 03:38:53.170266,Requesting credit of $433.23 for seller 175
+508,4,SAM,2025-07-08 14:38:53.170266,Approved
+509,8,AM,2024-06-13 08:49:25.831098,Requesting credit of $697.65 for seller 242
+509,5,SAM,2024-06-15 00:49:25.831098,Approved
+510,13,AM,2025-02-18 08:21:22.005904,Requesting credit of $318.38 for seller 9
+510,1,SAM,2025-02-20 08:21:22.005904,Approved
+511,8,AM,2024-05-22 03:56:55.845887,Requesting credit of $645.14 for seller 242
+511,5,SAM,2024-05-24 01:56:55.845887,Approved
+512,18,AM,2024-05-02 08:37:29.822236,Requesting credit of $257.57 for seller 146
+512,5,SAM,2024-05-02 15:37:29.822236,Rejected
+513,4,AM,2024-11-13 00:54:24.407763,Requesting credit of $725.3 for seller 93
+513,2,SAM,2024-11-13 14:54:24.407763,Rejected
+514,6,AM,2024-04-10 08:15:33.168391,Requesting credit of $696.79 for seller 143
+514,2,SAM,2024-04-11 02:15:33.168391,Approved
+515,10,AM,2024-03-30 18:44:46.443423,Requesting credit of $748.52 for seller 221
+515,5,SAM,2024-04-01 10:44:46.443423,Approved
+516,11,AM,2024-03-15 06:52:49.208456,Requesting credit of $225.28 for seller 31
+516,4,SAM,2024-03-15 16:52:49.208456,Approved
+517,5,AM,2025-01-27 20:10:26.895536,Requesting credit of $407.18 for seller 249
+517,2,SAM,2025-01-29 14:10:26.895536,Approved
+518,1,AM,2024-10-30 21:23:03.677320,Requesting credit of $757.27 for seller 284
+518,1,SAM,2024-10-31 22:23:03.677320,Approved
+519,13,AM,2024-09-27 02:40:47.223959,Requesting credit of $631.4 for seller 211
+519,1,SAM,2024-09-28 03:40:47.223959,Approved
+520,18,AM,2024-07-16 14:23:07.426280,Requesting credit of $535.81 for seller 262
+520,5,SAM,2024-07-17 01:23:07.426280,Rejected
+521,13,AM,2024-02-22 00:16:10.555561,Requesting credit of $623.54 for seller 9
+521,1,SAM,2024-02-23 15:16:10.555561,Approved
+522,10,AM,2024-12-13 05:21:12.968402,Requesting credit of $649.71 for seller 212
+522,5,SAM,2024-12-14 11:21:12.968402,Approved
+523,9,AM,2025-06-06 22:47:00.533219,Requesting credit of $382.45 for seller 73
+523,1,SAM,2025-06-07 14:47:00.533219,Approved
+524,1,AM,2024-11-16 18:43:08.232232,Requesting credit of $363.1 for seller 4
+524,1,SAM,2024-11-17 05:43:08.232232,Approved
+525,19,AM,2024-11-15 12:26:09.340045,Requesting credit of $642.44 for seller 289
+525,1,SAM,2024-11-15 16:26:09.340045,Approved
+526,8,AM,2024-03-09 11:05:30.117151,Requesting credit of $299.36 for seller 287
+526,5,SAM,2024-03-10 21:05:30.117151,Approved
+527,11,AM,2024-05-18 09:28:29.218892,Requesting credit of $695.97 for seller 86
+527,4,SAM,2024-05-18 19:28:29.218892,Approved
+528,18,AM,2025-02-07 09:08:30.750712,Requesting credit of $420.09 for seller 15
+528,5,SAM,2025-02-08 15:08:30.750712,Approved
+529,7,AM,2025-08-05 08:56:03.169887,Requesting credit of $643.84 for seller 180
+529,1,SAM,2025-08-06 06:56:03.169887,Approved
+530,8,AM,2024-11-27 20:03:41.776479,Requesting credit of $309.86 for seller 287
+530,5,SAM,2024-11-28 20:03:41.776479,Approved
+531,10,AM,2025-02-20 14:28:18.588930,Requesting credit of $672.59 for seller 60
+531,5,SAM,2025-02-21 12:28:18.588930,Approved
+532,18,AM,2024-09-15 22:31:55.762118,Requesting credit of $740.18 for seller 281
+532,5,SAM,2024-09-17 22:31:55.762118,Approved
+533,6,AM,2024-09-06 07:46:47.497187,Requesting credit of $729.16 for seller 218
+533,2,SAM,2024-09-07 23:46:47.497187,Approved
+534,19,AM,2024-04-25 10:25:29.232544,Requesting credit of $419.39 for seller 289
+534,1,SAM,2024-04-25 14:25:29.232544,Approved
+535,13,AM,2024-10-19 19:04:35.972940,Requesting credit of $456.77 for seller 98
+535,1,SAM,2024-10-20 11:04:35.972940,Approved
+536,13,AM,2025-06-10 21:42:37.375863,Requesting credit of $476.75 for seller 296
+536,1,SAM,2025-06-12 21:42:37.375863,Approved
+537,8,AM,2024-08-04 09:32:28.948343,Requesting credit of $499.56 for seller 224
+537,5,SAM,2024-08-04 19:32:28.948343,Approved
+538,16,AM,2024-03-28 19:30:18.263945,Requesting credit of $275.12 for seller 64
+538,2,SAM,2024-03-29 23:30:18.263945,Approved
+539,19,AM,2024-08-10 21:25:38.088592,Requesting credit of $250.58 for seller 227
+539,1,SAM,2024-08-12 01:25:38.088592,Approved
+540,16,AM,2025-06-28 14:06:46.760752,Requesting credit of $778.29 for seller 265
+540,2,SAM,2025-06-28 18:06:46.760752,Approved
+541,3,AM,2024-11-10 00:19:53.653038,Requesting credit of $641.65 for seller 271
+541,3,SAM,2024-11-11 20:19:53.653038,Approved
+542,11,AM,2025-02-28 07:14:34.795657,Requesting credit of $563.1 for seller 86
+542,4,SAM,2025-02-28 23:14:34.795657,Approved
+543,15,AM,2024-09-10 14:12:36.293205,Requesting credit of $220.94 for seller 96
+543,2,SAM,2024-09-11 05:12:36.293205,Approved
+544,12,AM,2024-07-04 10:30:19.140710,Requesting credit of $725.22 for seller 291
+544,1,SAM,2024-07-06 01:30:19.140710,Approved
+545,19,AM,2024-04-03 07:52:14.035738,Requesting credit of $236.4 for seller 41
+545,1,SAM,2024-04-03 20:52:14.035738,Rejected
+546,14,AM,2025-06-05 19:11:02.993787,Requesting credit of $270.71 for seller 92
+546,1,SAM,2025-06-07 06:11:02.993787,Approved
+547,20,AM,2024-07-11 04:38:10.661475,Requesting credit of $763.54 for seller 145
+547,5,SAM,2024-07-11 19:38:10.661475,Approved
+548,5,AM,2024-06-06 16:56:01.065717,Requesting credit of $668.25 for seller 39
+548,2,SAM,2024-06-07 01:56:01.065717,Approved
+549,18,AM,2023-12-29 04:36:49.789324,Requesting credit of $341.41 for seller 15
+549,5,SAM,2023-12-29 21:36:49.789324,Approved
+550,9,AM,2025-08-09 11:31:22.028954,Requesting credit of $753.14 for seller 6
+550,1,SAM,2025-08-09 22:31:22.028954,Approved
+551,6,AM,2024-09-23 08:24:43.123878,Requesting credit of $603.67 for seller 273
+551,2,SAM,2024-09-24 03:24:43.123878,Approved
+552,9,AM,2025-02-23 00:19:31.319194,Requesting credit of $613.97 for seller 6
+552,1,SAM,2025-02-24 14:19:31.319194,Approved
+553,18,AM,2024-07-16 13:17:00.637980,Requesting credit of $690.89 for seller 188
+553,5,SAM,2024-07-18 01:17:00.637980,Approved
+554,3,AM,2024-06-23 14:39:45.998309,Requesting credit of $561.65 for seller 201
+554,3,SAM,2024-06-23 23:39:45.998309,Approved
+555,1,AM,2024-06-04 18:05:01.604791,Requesting credit of $583.61 for seller 189
+555,1,SAM,2024-06-06 14:05:01.604791,Rejected
+556,7,AM,2025-06-25 03:48:56.349219,Requesting credit of $263.85 for seller 25
+556,1,SAM,2025-06-25 20:48:56.349219,Approved
+557,20,AM,2024-05-23 11:08:05.236043,Requesting credit of $254.75 for seller 193
+557,5,SAM,2024-05-25 10:08:05.236043,Approved
+558,20,AM,2025-08-23 08:17:12.514443,Requesting credit of $341.56 for seller 210
+558,5,SAM,2025-08-23 23:17:12.514443,Approved
+559,14,AM,2024-05-22 07:42:35.182730,Requesting credit of $721.52 for seller 130
+559,1,SAM,2024-05-23 13:42:35.182730,Approved
+560,1,AM,2024-11-03 15:51:36.483534,Requesting credit of $499.4 for seller 57
+560,1,SAM,2024-11-05 05:51:36.483534,Rejected
+561,19,AM,2024-12-25 15:45:11.456224,Requesting credit of $741.81 for seller 17
+561,1,SAM,2024-12-26 17:45:11.456224,Approved
+562,4,AM,2025-01-11 02:11:59.378168,Requesting credit of $604.1 for seller 162
+562,2,SAM,2025-01-12 00:11:59.378168,Approved
+563,16,AM,2025-05-29 22:19:56.063201,Requesting credit of $458.01 for seller 110
+563,2,SAM,2025-05-31 12:19:56.063201,Approved
+564,2,AM,2025-04-20 02:44:23.231745,Requesting credit of $458.32 for seller 234
+564,1,SAM,2025-04-21 01:44:23.231745,Approved
+565,12,AM,2024-06-12 15:45:37.785416,Requesting credit of $542.8 for seller 164
+565,1,SAM,2024-06-14 06:45:37.785416,Approved
+566,11,AM,2024-10-24 03:57:13.613026,Requesting credit of $395.52 for seller 248
+566,4,SAM,2024-10-25 17:57:13.613026,Approved
+567,20,AM,2025-05-20 05:02:33.884569,Requesting credit of $382.19 for seller 125
+567,5,SAM,2025-05-20 22:02:33.884569,Approved
+568,8,AM,2024-03-23 14:15:30.874034,Requesting credit of $300.37 for seller 232
+568,5,SAM,2024-03-25 09:15:30.874034,Approved
+569,12,AM,2024-09-09 06:30:58.025646,Requesting credit of $719.07 for seller 168
+569,1,SAM,2024-09-10 21:30:58.025646,Approved
+570,18,AM,2025-01-02 20:31:12.089492,Requesting credit of $251.1 for seller 262
+570,5,SAM,2025-01-03 12:31:12.089492,Approved
+571,17,AM,2024-07-19 14:00:29.834281,Requesting credit of $792.63 for seller 217
+571,5,SAM,2024-07-20 00:00:29.834281,Approved
+572,4,AM,2025-08-16 08:32:51.809851,Requesting credit of $326.12 for seller 235
+572,2,SAM,2025-08-17 16:32:51.809851,Approved
+573,8,AM,2024-09-19 03:49:59.403955,Requesting credit of $750.08 for seller 176
+573,5,SAM,2024-09-20 06:49:59.403955,Approved
+574,20,AM,2024-09-18 07:54:13.787180,Requesting credit of $783.23 for seller 50
+574,5,SAM,2024-09-20 04:54:13.787180,Approved
+575,15,AM,2024-05-30 00:19:39.448724,Requesting credit of $292.96 for seller 226
+575,2,SAM,2024-05-31 09:19:39.448724,Approved
+576,1,AM,2024-12-30 07:15:39.696270,Requesting credit of $442.19 for seller 183
+576,1,SAM,2024-12-30 16:15:39.696270,Approved
+577,20,AM,2025-01-18 17:03:20.076866,Requesting credit of $324.66 for seller 125
+577,5,SAM,2025-01-20 13:03:20.076866,Rejected
+578,13,AM,2025-06-19 15:04:39.593078,Requesting credit of $455.8 for seller 270
+578,1,SAM,2025-06-21 11:04:39.593078,Rejected
+579,2,AM,2025-03-07 21:28:59.205759,Requesting credit of $635.62 for seller 121
+579,1,SAM,2025-03-09 12:28:59.205759,Approved
+580,15,AM,2024-06-18 15:56:12.258261,Requesting credit of $313.22 for seller 245
+580,2,SAM,2024-06-19 09:56:12.258261,Approved
+581,19,AM,2025-08-13 06:12:13.381310,Requesting credit of $537.99 for seller 90
+581,1,SAM,2025-08-14 18:12:13.381310,Rejected
+582,6,AM,2025-05-26 09:14:58.250518,Requesting credit of $629.79 for seller 218
+582,2,SAM,2025-05-28 08:14:58.250518,Approved
+583,19,AM,2024-04-07 11:50:18.372709,Requesting credit of $600.97 for seller 3
+583,1,SAM,2024-04-09 09:50:18.372709,Approved
+584,9,AM,2024-11-04 03:01:37.099088,Requesting credit of $415.34 for seller 279
+584,1,SAM,2024-11-05 14:01:37.099088,Approved
+585,16,AM,2025-06-25 09:20:46.200504,Requesting credit of $441.42 for seller 64
+585,2,SAM,2025-06-26 13:20:46.200504,Approved
+586,4,AM,2024-09-07 18:53:05.796137,Requesting credit of $577.34 for seller 203
+586,2,SAM,2024-09-09 14:53:05.796137,Approved
+587,19,AM,2025-01-16 21:48:27.129913,Requesting credit of $577.21 for seller 17
+587,1,SAM,2025-01-18 01:48:27.129913,Approved
+588,1,AM,2024-05-04 20:51:49.613401,Requesting credit of $474.72 for seller 284
+588,1,SAM,2024-05-06 00:51:49.613401,Approved
+589,2,AM,2024-04-14 14:54:35.067538,Requesting credit of $644.96 for seller 119
+589,1,SAM,2024-04-16 08:54:35.067538,Rejected
+590,17,AM,2024-04-25 14:40:45.515828,Requesting credit of $330.14 for seller 204
+590,5,SAM,2024-04-27 11:40:45.515828,Approved
+591,3,AM,2024-06-03 17:45:45.410575,Requesting credit of $565.68 for seller 20
+591,3,SAM,2024-06-05 15:45:45.410575,Approved
+592,20,AM,2024-01-06 17:19:00.827201,Requesting credit of $295.25 for seller 145
+592,5,SAM,2024-01-08 03:19:00.827201,Approved
+593,7,AM,2025-06-18 18:39:13.581794,Requesting credit of $445.25 for seller 36
+593,1,SAM,2025-06-19 06:39:13.581794,Approved
+594,9,AM,2025-02-04 09:42:36.360161,Requesting credit of $275.49 for seller 186
+594,1,SAM,2025-02-04 22:42:36.360161,Rejected
+595,3,AM,2024-07-13 02:00:16.232318,Requesting credit of $254.04 for seller 69
+595,3,SAM,2024-07-14 22:00:16.232318,Rejected
+596,13,AM,2024-11-14 03:08:49.683659,Requesting credit of $763.61 for seller 267
+596,1,SAM,2024-11-14 20:08:49.683659,Approved
+597,13,AM,2025-03-04 23:51:03.212813,Requesting credit of $438.75 for seller 113
+597,1,SAM,2025-03-06 17:51:03.212813,Approved
+598,20,AM,2025-01-27 13:54:07.400342,Requesting credit of $557.71 for seller 145
+598,5,SAM,2025-01-28 09:54:07.400342,Approved
+599,15,AM,2024-04-02 20:05:51.979846,Requesting credit of $774.18 for seller 226
+599,2,SAM,2024-04-03 14:05:51.979846,Approved
+600,10,AM,2025-05-20 04:05:16.945346,Requesting credit of $493.07 for seller 219
+600,5,SAM,2025-05-22 03:05:16.945346,Approved
+601,20,AM,2024-05-15 19:45:04.550667,Requesting credit of $259.12 for seller 292
+601,5,SAM,2024-05-17 13:45:04.550667,Rejected
+602,18,AM,2024-01-03 23:12:15.114840,Requesting credit of $239.83 for seller 254
+602,5,SAM,2024-01-05 21:12:15.114840,Approved
+603,9,AM,2025-06-19 00:16:46.396873,Requesting credit of $411.92 for seller 156
+603,1,SAM,2025-06-20 03:16:46.396873,Approved
+604,7,AM,2025-07-12 10:44:10.570947,Requesting credit of $274.73 for seller 222
+604,1,SAM,2025-07-13 12:44:10.570947,Approved
+605,11,AM,2024-10-19 14:28:45.467938,Requesting credit of $696.76 for seller 175
+605,4,SAM,2024-10-20 02:28:45.467938,Approved
+606,7,AM,2025-03-23 18:48:36.028409,Requesting credit of $430.25 for seller 222
+606,1,SAM,2025-03-25 08:48:36.028409,Approved
+607,9,AM,2024-10-08 03:32:34.663135,Requesting credit of $332.53 for seller 154
+607,1,SAM,2024-10-08 14:32:34.663135,Approved
+608,12,AM,2025-02-04 23:53:48.420223,Requesting credit of $550.81 for seller 282
+608,1,SAM,2025-02-05 09:53:48.420223,Approved
+609,9,AM,2024-01-02 15:54:41.053680,Requesting credit of $466.72 for seller 73
+609,1,SAM,2024-01-03 18:54:41.053680,Approved
+610,3,AM,2025-01-08 12:44:28.581668,Requesting credit of $722.74 for seller 297
+610,3,SAM,2025-01-10 03:44:28.581668,Approved
+611,11,AM,2025-07-20 09:11:58.634463,Requesting credit of $432.87 for seller 31
+611,4,SAM,2025-07-21 11:11:58.634463,Approved
+612,19,AM,2024-06-23 06:20:25.121927,Requesting credit of $395.63 for seller 17
+612,1,SAM,2024-06-24 14:20:25.121927,Approved
+613,10,AM,2025-05-31 14:26:31.090197,Requesting credit of $731.81 for seller 118
+613,5,SAM,2025-06-02 05:26:31.090197,Approved
+614,5,AM,2024-08-06 00:57:50.177361,Requesting credit of $398.98 for seller 44
+614,2,SAM,2024-08-06 09:57:50.177361,Approved
+615,9,AM,2024-05-17 10:29:10.494990,Requesting credit of $489.67 for seller 73
+615,1,SAM,2024-05-18 04:29:10.494990,Approved
+616,16,AM,2024-02-03 14:26:59.316372,Requesting credit of $656.14 for seller 263
+616,2,SAM,2024-02-04 12:26:59.316372,Approved
+617,9,AM,2024-02-25 18:07:20.973502,Requesting credit of $526.58 for seller 6
+617,1,SAM,2024-02-27 02:07:20.973502,Rejected
+618,4,AM,2025-07-07 03:52:59.874920,Requesting credit of $719.66 for seller 294
+618,2,SAM,2025-07-07 09:52:59.874920,Approved
+619,18,AM,2024-08-22 16:58:29.178038,Requesting credit of $385.55 for seller 15
+619,5,SAM,2024-08-23 19:58:29.178038,Approved
+620,2,AM,2025-07-11 19:26:01.955222,Requesting credit of $472.07 for seller 234
+620,1,SAM,2025-07-13 00:26:01.955222,Approved
+621,7,AM,2025-01-27 01:22:42.758759,Requesting credit of $622.15 for seller 285
+621,1,SAM,2025-01-27 10:22:42.758759,Approved
+622,16,AM,2025-01-25 10:37:13.652458,Requesting credit of $576.01 for seller 263
+622,2,SAM,2025-01-26 07:37:13.652458,Approved
+623,19,AM,2024-06-01 12:20:49.422409,Requesting credit of $321.18 for seller 289
+623,1,SAM,2024-06-02 08:20:49.422409,Approved
+624,6,AM,2025-07-27 12:05:46.784351,Requesting credit of $738.08 for seller 218
+624,2,SAM,2025-07-27 23:05:46.784351,Approved
+625,8,AM,2025-03-26 04:28:41.107762,Requesting credit of $289.57 for seller 182
+625,5,SAM,2025-03-27 08:28:41.107762,Approved
+626,17,AM,2024-02-26 01:13:04.175849,Requesting credit of $583.1 for seller 122
+626,5,SAM,2024-02-27 18:13:04.175849,Approved
+627,2,AM,2024-07-05 08:05:21.824668,Requesting credit of $247.4 for seller 192
+627,1,SAM,2024-07-07 07:05:21.824668,Approved
+628,15,AM,2024-03-03 05:36:09.422976,Requesting credit of $777.01 for seller 268
+628,2,SAM,2024-03-03 09:36:09.422976,Approved
+629,1,AM,2024-11-11 10:16:01.809280,Requesting credit of $218.44 for seller 4
+629,1,SAM,2024-11-11 18:16:01.809280,Approved
+630,17,AM,2024-10-26 02:17:59.257312,Requesting credit of $551.2 for seller 217
+630,5,SAM,2024-10-26 23:17:59.257312,Approved
+631,3,AM,2025-05-08 06:52:56.238881,Requesting credit of $381.03 for seller 45
+631,3,SAM,2025-05-09 01:52:56.238881,Approved
+632,12,AM,2024-09-08 10:26:07.946692,Requesting credit of $696.83 for seller 291
+632,1,SAM,2024-09-10 05:26:07.946692,Approved
+633,8,AM,2025-07-13 02:00:39.183980,Requesting credit of $249.96 for seller 169
+633,5,SAM,2025-07-14 21:00:39.183980,Rejected
+634,7,AM,2025-03-25 17:05:32.616769,Requesting credit of $266.09 for seller 74
+634,1,SAM,2025-03-26 17:05:32.616769,Approved
+635,1,AM,2024-12-01 07:53:15.732571,Requesting credit of $625.96 for seller 57
+635,1,SAM,2024-12-02 19:53:15.732571,Approved
+636,14,AM,2024-06-24 11:59:15.286024,Requesting credit of $556.6 for seller 130
+636,1,SAM,2024-06-25 21:59:15.286024,Approved
+637,17,AM,2025-06-11 00:59:36.240162,Requesting credit of $766.87 for seller 233
+637,5,SAM,2025-06-12 09:59:36.240162,Approved
+638,2,AM,2025-08-07 19:37:02.987903,Requesting credit of $345.62 for seller 107
+638,1,SAM,2025-08-08 23:37:02.987903,Approved
+639,18,AM,2025-02-04 15:52:58.771304,Requesting credit of $720.29 for seller 207
+639,5,SAM,2025-02-05 11:52:58.771304,Approved
+640,20,AM,2024-06-04 09:51:45.885858,Requesting credit of $742.94 for seller 202
+640,5,SAM,2024-06-05 16:51:45.885858,Approved
+641,2,AM,2025-07-21 21:52:02.203831,Requesting credit of $632.12 for seller 67
+641,1,SAM,2025-07-22 12:52:02.203831,Approved
+642,16,AM,2025-05-22 02:49:27.354987,Requesting credit of $727.79 for seller 259
+642,2,SAM,2025-05-22 21:49:27.354987,Approved
+643,8,AM,2025-06-27 20:00:20.474125,Requesting credit of $200.74 for seller 244
+643,5,SAM,2025-06-28 11:00:20.474125,Approved
+644,9,AM,2024-06-07 00:36:31.523628,Requesting credit of $505.66 for seller 185
+644,1,SAM,2024-06-08 00:36:31.523628,Approved
+645,11,AM,2024-12-13 02:11:29.704428,Requesting credit of $511.96 for seller 277
+645,4,SAM,2024-12-13 12:11:29.704428,Approved
+646,14,AM,2025-07-15 11:45:27.838903,Requesting credit of $260.85 for seller 95
+646,1,SAM,2025-07-16 19:45:27.838903,Approved
+647,11,AM,2025-06-19 17:28:39.443004,Requesting credit of $472.65 for seller 120
+647,4,SAM,2025-06-20 19:28:39.443004,Rejected
+648,14,AM,2025-02-06 22:14:05.611425,Requesting credit of $688.52 for seller 165
+648,1,SAM,2025-02-08 14:14:05.611425,Approved
+649,18,AM,2024-03-20 15:30:20.436325,Requesting credit of $405.31 for seller 106
+649,5,SAM,2024-03-22 14:30:20.436325,Approved
+650,6,AM,2025-06-29 18:27:50.222416,Requesting credit of $270.41 for seller 56
+650,2,SAM,2025-06-30 16:27:50.222416,Approved
+651,5,AM,2024-06-12 11:12:53.190109,Requesting credit of $758.16 for seller 230
+651,2,SAM,2024-06-13 17:12:53.190109,Approved
+652,14,AM,2024-11-12 12:23:39.149582,Requesting credit of $775.2 for seller 253
+652,1,SAM,2024-11-13 13:23:39.149582,Approved
+653,5,AM,2024-05-24 08:08:59.936922,Requesting credit of $656.49 for seller 39
+653,2,SAM,2024-05-25 05:08:59.936922,Approved
+654,14,AM,2024-12-19 15:43:26.255865,Requesting credit of $678.33 for seller 5
+654,1,SAM,2024-12-20 21:43:26.255865,Approved
+655,15,AM,2024-08-08 10:17:14.205031,Requesting credit of $204.59 for seller 137
+655,2,SAM,2024-08-10 10:17:14.205031,Approved
+656,17,AM,2024-12-29 05:58:00.041115,Requesting credit of $400.51 for seller 139
+656,5,SAM,2024-12-30 20:58:00.041115,Rejected
+657,13,AM,2024-04-09 08:09:18.478776,Requesting credit of $686.8 for seller 49
+657,1,SAM,2024-04-11 03:09:18.478776,Approved
+658,4,AM,2025-05-20 05:45:37.538540,Requesting credit of $368.67 for seller 162
+658,2,SAM,2025-05-21 03:45:37.538540,Approved
+659,2,AM,2025-06-28 23:02:09.013787,Requesting credit of $650.82 for seller 123
+659,1,SAM,2025-06-30 21:02:09.013787,Approved
+660,8,AM,2024-01-16 21:07:15.425349,Requesting credit of $564.09 for seller 244
+660,5,SAM,2024-01-17 18:07:15.425349,Approved
+661,6,AM,2025-01-17 17:29:34.517265,Requesting credit of $784.27 for seller 159
+661,2,SAM,2025-01-19 11:29:34.517265,Approved
+662,13,AM,2025-04-15 08:07:06.968861,Requesting credit of $669.0 for seller 184
+662,1,SAM,2025-04-16 07:07:06.968861,Approved
+663,9,AM,2024-01-18 10:46:34.456711,Requesting credit of $290.25 for seller 22
+663,1,SAM,2024-01-19 13:46:34.456711,Approved
+664,18,AM,2025-03-20 18:20:51.632316,Requesting credit of $664.85 for seller 106
+664,5,SAM,2025-03-21 20:20:51.632316,Approved
+665,11,AM,2024-03-30 09:05:38.117598,Requesting credit of $236.46 for seller 86
+665,4,SAM,2024-03-31 08:05:38.117598,Rejected
+666,20,AM,2024-06-29 02:09:20.184855,Requesting credit of $415.23 for seller 299
+666,5,SAM,2024-06-30 17:09:20.184855,Approved
+667,3,AM,2024-01-11 10:46:17.490695,Requesting credit of $320.07 for seller 136
+667,3,SAM,2024-01-13 07:46:17.490695,Approved
+668,20,AM,2024-08-26 04:21:49.392140,Requesting credit of $772.65 for seller 151
+668,5,SAM,2024-08-27 17:21:49.392140,Approved
+669,3,AM,2024-02-14 03:35:51.125378,Requesting credit of $407.41 for seller 26
+669,3,SAM,2024-02-15 00:35:51.125378,Approved
+670,3,AM,2025-02-19 21:09:03.823059,Requesting credit of $441.61 for seller 141
+670,3,SAM,2025-02-21 16:09:03.823059,Approved
+671,6,AM,2024-12-12 20:56:16.009748,Requesting credit of $212.88 for seller 124
+671,2,SAM,2024-12-13 03:56:16.009748,Approved
+672,13,AM,2024-05-13 20:20:27.609203,Requesting credit of $616.6 for seller 266
+672,1,SAM,2024-05-14 08:20:27.609203,Approved
+673,10,AM,2025-05-30 03:45:03.130600,Requesting credit of $621.22 for seller 212
+673,5,SAM,2025-05-30 20:45:03.130600,Approved
+674,8,AM,2025-07-01 21:40:53.352027,Requesting credit of $752.33 for seller 169
+674,5,SAM,2025-07-02 22:40:53.352027,Rejected
+675,11,AM,2025-05-21 02:14:48.108120,Requesting credit of $651.85 for seller 248
+675,4,SAM,2025-05-21 10:14:48.108120,Approved
+676,19,AM,2024-08-18 08:06:37.755893,Requesting credit of $541.03 for seller 17
+676,1,SAM,2024-08-18 12:06:37.755893,Approved
+677,3,AM,2024-12-05 10:50:04.795158,Requesting credit of $702.11 for seller 252
+677,3,SAM,2024-12-06 02:50:04.795158,Approved
+678,14,AM,2025-06-23 08:03:39.818671,Requesting credit of $320.96 for seller 195
+678,1,SAM,2025-06-25 07:03:39.818671,Approved
+679,14,AM,2025-07-26 14:43:05.252231,Requesting credit of $398.53 for seller 116
+679,1,SAM,2025-07-28 03:43:05.252231,Approved
+680,15,AM,2024-01-21 14:02:40.050915,Requesting credit of $287.62 for seller 216
+680,2,SAM,2024-01-23 12:02:40.050915,Approved
+681,13,AM,2025-04-09 05:18:27.611373,Requesting credit of $414.53 for seller 37
+681,1,SAM,2025-04-10 02:18:27.611373,Approved
+682,13,AM,2025-06-12 03:11:14.573815,Requesting credit of $450.07 for seller 228
+682,1,SAM,2025-06-14 03:11:14.573815,Approved
+683,15,AM,2024-08-12 11:14:58.343534,Requesting credit of $497.48 for seller 241
+683,2,SAM,2024-08-14 10:14:58.343534,Approved
+684,1,AM,2024-12-30 14:07:10.262172,Requesting credit of $537.52 for seller 223
+684,1,SAM,2024-12-31 16:07:10.262172,Approved
+685,12,AM,2025-01-01 13:19:08.474792,Requesting credit of $619.96 for seller 164
+685,1,SAM,2025-01-02 13:19:08.474792,Approved
+686,8,AM,2024-06-13 10:24:12.883435,Requesting credit of $240.24 for seller 232
+686,5,SAM,2024-06-13 15:24:12.883435,Approved
+687,20,AM,2025-04-07 20:50:13.553550,Requesting credit of $736.11 for seller 269
+687,5,SAM,2025-04-09 11:50:13.553550,Approved
+688,12,AM,2024-06-11 05:22:28.138926,Requesting credit of $398.98 for seller 260
+688,1,SAM,2024-06-12 05:22:28.138926,Approved
+689,15,AM,2024-05-15 03:58:02.327157,Requesting credit of $736.56 for seller 241
+689,2,SAM,2024-05-16 16:58:02.327157,Approved
+690,18,AM,2024-05-14 10:12:52.402055,Requesting credit of $481.0 for seller 239
+690,5,SAM,2024-05-16 06:12:52.402055,Approved
+691,15,AM,2024-07-22 17:06:03.981729,Requesting credit of $360.62 for seller 96
+691,2,SAM,2024-07-24 12:06:03.981729,Approved
+692,7,AM,2024-07-14 14:29:13.368412,Requesting credit of $785.16 for seller 256
+692,1,SAM,2024-07-15 06:29:13.368412,Approved
+693,11,AM,2024-05-05 23:32:02.371098,Requesting credit of $413.26 for seller 33
+693,4,SAM,2024-05-07 05:32:02.371098,Approved
+694,11,AM,2025-03-12 23:47:45.278460,Requesting credit of $454.18 for seller 175
+694,4,SAM,2025-03-13 14:47:45.278460,Approved
+695,13,AM,2024-09-29 03:16:30.153783,Requesting credit of $499.44 for seller 113
+695,1,SAM,2024-10-01 00:16:30.153783,Approved
+696,14,AM,2024-02-01 08:32:42.568296,Requesting credit of $283.07 for seller 130
+696,1,SAM,2024-02-02 11:32:42.568296,Approved
+697,5,AM,2024-06-29 11:51:56.266595,Requesting credit of $336.82 for seller 117
+697,2,SAM,2024-06-29 20:51:56.266595,Approved
+698,5,AM,2025-08-18 04:29:42.680686,Requesting credit of $465.25 for seller 134
+698,2,SAM,2025-08-18 11:29:42.680686,Approved
+699,11,AM,2024-03-23 23:35:52.378704,Requesting credit of $432.15 for seller 80
+699,4,SAM,2024-03-24 07:35:52.378704,Approved
+700,3,AM,2025-02-02 09:29:50.930341,Requesting credit of $310.72 for seller 138
+700,3,SAM,2025-02-03 01:29:50.930341,Approved
+701,4,AM,2025-06-21 18:37:49.091034,Requesting credit of $273.59 for seller 147
+701,2,SAM,2025-06-23 00:37:49.091034,Approved
+702,5,AM,2024-02-21 14:23:20.335211,Requesting credit of $551.31 for seller 236
+702,2,SAM,2024-02-22 00:23:20.335211,Approved
+703,8,AM,2024-12-29 10:52:04.506953,Requesting credit of $455.47 for seller 91
+703,5,SAM,2024-12-31 00:52:04.506953,Approved
+704,7,AM,2024-04-30 10:54:33.200130,Requesting credit of $348.79 for seller 1
+704,1,SAM,2024-05-01 13:54:33.200130,Approved
+705,16,AM,2024-12-10 18:42:11.156196,Requesting credit of $649.25 for seller 64
+705,2,SAM,2024-12-12 10:42:11.156196,Approved
+706,17,AM,2025-01-20 01:34:13.846149,Requesting credit of $756.71 for seller 58
+706,5,SAM,2025-01-21 09:34:13.846149,Approved
+707,2,AM,2025-07-20 05:24:54.688372,Requesting credit of $750.06 for seller 234
+707,1,SAM,2025-07-20 10:24:54.688372,Approved
+708,1,AM,2024-09-03 22:33:40.864049,Requesting credit of $415.46 for seller 183
+708,1,SAM,2024-09-04 22:33:40.864049,Rejected
+709,19,AM,2024-07-26 10:07:52.869882,Requesting credit of $499.45 for seller 90
+709,1,SAM,2024-07-27 22:07:52.869882,Approved
+710,16,AM,2024-03-13 12:31:15.177896,Requesting credit of $430.62 for seller 110
+710,2,SAM,2024-03-14 01:31:15.177896,Approved
+711,6,AM,2025-04-02 13:42:35.012759,Requesting credit of $371.37 for seller 109
+711,2,SAM,2025-04-02 22:42:35.012759,Approved
+712,10,AM,2024-10-03 10:11:54.691478,Requesting credit of $487.89 for seller 55
+712,5,SAM,2024-10-04 20:11:54.691478,Approved
+713,9,AM,2025-04-06 14:43:27.721840,Requesting credit of $458.26 for seller 34
+713,1,SAM,2025-04-08 08:43:27.721840,Approved
+714,12,AM,2024-06-17 16:33:16.195152,Requesting credit of $480.28 for seller 282
+714,1,SAM,2024-06-17 23:33:16.195152,Approved
+715,8,AM,2024-08-06 20:37:46.206659,Requesting credit of $450.0 for seller 126
+715,5,SAM,2024-08-07 14:37:46.206659,Approved
+716,4,AM,2024-06-21 13:57:24.584677,Requesting credit of $698.92 for seller 99
+716,2,SAM,2024-06-21 20:57:24.584677,Approved
+717,10,AM,2024-12-14 15:25:06.582519,Requesting credit of $341.1 for seller 118
+717,5,SAM,2024-12-15 15:25:06.582519,Approved
+718,11,AM,2024-10-11 23:16:51.535414,Requesting credit of $463.26 for seller 175
+718,4,SAM,2024-10-13 15:16:51.535414,Approved
+719,9,AM,2024-03-01 02:51:06.146588,Requesting credit of $649.99 for seller 197
+719,1,SAM,2024-03-02 03:51:06.146588,Rejected
+720,3,AM,2024-12-09 04:34:51.741324,Requesting credit of $764.43 for seller 70
+720,3,SAM,2024-12-10 09:34:51.741324,Approved
+721,1,AM,2024-08-04 08:41:06.913798,Requesting credit of $271.24 for seller 174
+721,1,SAM,2024-08-05 00:41:06.913798,Approved
+722,6,AM,2024-09-26 10:07:56.854355,Requesting credit of $412.81 for seller 143
+722,2,SAM,2024-09-27 05:07:56.854355,Approved
+723,7,AM,2024-03-27 00:41:30.822400,Requesting credit of $426.05 for seller 256
+723,1,SAM,2024-03-28 22:41:30.822400,Approved
+724,4,AM,2024-02-10 14:26:09.224684,Requesting credit of $375.72 for seller 162
+724,2,SAM,2024-02-11 13:26:09.224684,Approved
+725,18,AM,2025-05-02 07:51:56.308266,Requesting credit of $371.3 for seller 27
+725,5,SAM,2025-05-03 15:51:56.308266,Rejected
+726,5,AM,2025-05-07 12:01:48.769628,Requesting credit of $436.27 for seller 117
+726,2,SAM,2025-05-07 23:01:48.769628,Approved
+727,18,AM,2025-02-11 14:32:52.176650,Requesting credit of $299.0 for seller 15
+727,5,SAM,2025-02-11 18:32:52.176650,Approved
+728,20,AM,2024-03-15 18:38:31.238067,Requesting credit of $408.04 for seller 286
+728,5,SAM,2024-03-16 11:38:31.238067,Approved
+729,8,AM,2024-03-30 12:37:55.030957,Requesting credit of $561.25 for seller 91
+729,5,SAM,2024-04-01 07:37:55.030957,Approved
+730,3,AM,2024-04-23 00:15:11.964368,Requesting credit of $727.79 for seller 283
+730,3,SAM,2024-04-24 22:15:11.964368,Approved
+731,9,AM,2024-05-18 05:35:47.414901,Requesting credit of $646.29 for seller 34
+731,1,SAM,2024-05-19 02:35:47.414901,Rejected
+732,7,AM,2024-12-24 18:33:03.406344,Requesting credit of $531.9 for seller 111
+732,1,SAM,2024-12-26 16:33:03.406344,Approved
+733,17,AM,2025-04-07 08:44:22.982346,Requesting credit of $641.02 for seller 59
+733,5,SAM,2025-04-08 02:44:22.982346,Approved
+734,5,AM,2024-10-24 15:32:56.695705,Requesting credit of $500.9 for seller 230
+734,2,SAM,2024-10-26 05:32:56.695705,Rejected
+735,17,AM,2025-04-20 20:58:30.106385,Requesting credit of $321.22 for seller 58
+735,5,SAM,2025-04-21 02:58:30.106385,Approved
+736,7,AM,2024-02-13 12:39:03.830182,Requesting credit of $563.79 for seller 1
+736,1,SAM,2024-02-13 17:39:03.830182,Approved
+737,5,AM,2025-06-23 00:09:30.030021,Requesting credit of $698.75 for seller 102
+737,2,SAM,2025-06-23 07:09:30.030021,Approved
+738,11,AM,2024-12-13 19:15:22.098657,Requesting credit of $544.5 for seller 33
+738,4,SAM,2024-12-14 16:15:22.098657,Approved
+739,14,AM,2024-09-21 21:30:46.101212,Requesting credit of $377.06 for seller 5
+739,1,SAM,2024-09-23 10:30:46.101212,Approved
+740,11,AM,2024-04-04 10:02:44.548470,Requesting credit of $775.29 for seller 132
+740,4,SAM,2024-04-06 02:02:44.548470,Approved
+741,12,AM,2025-07-20 17:33:03.691189,Requesting credit of $663.83 for seller 43
+741,1,SAM,2025-07-21 05:33:03.691189,Approved
+742,10,AM,2025-03-07 02:22:11.917632,Requesting credit of $275.54 for seller 60
+742,5,SAM,2025-03-08 01:22:11.917632,Approved
+743,15,AM,2024-01-31 19:52:08.400429,Requesting credit of $653.39 for seller 276
+743,2,SAM,2024-02-02 16:52:08.400429,Approved
+744,9,AM,2024-03-04 14:27:08.087507,Requesting credit of $591.61 for seller 186
+744,1,SAM,2024-03-05 05:27:08.087507,Approved
+745,2,AM,2024-04-06 02:11:13.390653,Requesting credit of $436.13 for seller 166
+745,1,SAM,2024-04-07 08:11:13.390653,Approved
+746,2,AM,2024-04-26 07:52:39.091258,Requesting credit of $508.64 for seller 107
+746,1,SAM,2024-04-26 20:52:39.091258,Approved
+747,8,AM,2025-03-17 04:38:11.124477,Requesting credit of $643.15 for seller 250
+747,5,SAM,2025-03-18 22:38:11.124477,Approved
+748,16,AM,2025-08-22 08:24:18.492234,Requesting credit of $641.55 for seller 263
+748,2,SAM,2025-08-24 08:24:18.492234,Approved
+749,14,AM,2025-03-16 08:52:01.919799,Requesting credit of $255.28 for seller 255
+749,1,SAM,2025-03-16 23:52:01.919799,Approved
+750,14,AM,2024-03-21 15:10:51.604840,Requesting credit of $257.0 for seller 255
+750,1,SAM,2024-03-22 21:10:51.604840,Approved
+751,4,AM,2024-10-31 05:12:16.042538,Requesting credit of $250.01 for seller 203
+751,2,SAM,2024-10-31 23:12:16.042538,Approved
+752,1,AM,2024-03-07 00:37:29.834201,Requesting credit of $221.77 for seller 4
+752,1,SAM,2024-03-08 19:37:29.834201,Approved
+753,12,AM,2025-02-01 09:14:50.941988,Requesting credit of $600.06 for seller 142
+753,1,SAM,2025-02-01 15:14:50.941988,Approved
+754,13,AM,2025-03-22 01:46:16.064861,Requesting credit of $503.19 for seller 229
+754,1,SAM,2025-03-23 19:46:16.064861,Approved
+755,17,AM,2025-06-15 05:01:20.174726,Requesting credit of $667.36 for seller 237
+755,5,SAM,2025-06-16 13:01:20.174726,Approved
+756,13,AM,2024-11-11 18:28:29.903676,Requesting credit of $637.74 for seller 206
+756,1,SAM,2024-11-12 23:28:29.903676,Approved
+757,2,AM,2025-01-03 22:02:26.109579,Requesting credit of $332.98 for seller 234
+757,1,SAM,2025-01-04 14:02:26.109579,Approved
+758,15,AM,2024-07-03 19:23:28.137477,Requesting credit of $546.49 for seller 276
+758,2,SAM,2024-07-05 02:23:28.137477,Approved
+759,8,AM,2024-02-04 00:51:01.950985,Requesting credit of $446.51 for seller 79
+759,5,SAM,2024-02-04 09:51:01.950985,Approved
+760,5,AM,2024-06-04 19:09:59.025961,Requesting credit of $751.86 for seller 117
+760,2,SAM,2024-06-06 01:09:59.025961,Approved
+761,18,AM,2025-06-16 00:30:14.730111,Requesting credit of $476.79 for seller 281
+761,5,SAM,2025-06-17 09:30:14.730111,Rejected
+762,11,AM,2024-12-30 13:30:17.374249,Requesting credit of $739.33 for seller 86
+762,4,SAM,2024-12-30 22:30:17.374249,Approved
+763,13,AM,2024-08-10 00:48:34.493059,Requesting credit of $466.96 for seller 178
+763,1,SAM,2024-08-11 12:48:34.493059,Approved
+764,4,AM,2024-09-28 16:49:22.250709,Requesting credit of $740.06 for seller 99
+764,2,SAM,2024-09-29 17:49:22.250709,Approved
+765,8,AM,2025-03-19 18:31:20.090381,Requesting credit of $624.42 for seller 232
+765,5,SAM,2025-03-21 00:31:20.090381,Approved
+766,8,AM,2024-07-14 16:59:28.641424,Requesting credit of $535.71 for seller 32
+766,5,SAM,2024-07-15 03:59:28.641424,Approved
+767,3,AM,2024-01-22 21:05:53.650682,Requesting credit of $629.04 for seller 69
+767,3,SAM,2024-01-24 08:05:53.650682,Approved
+768,4,AM,2025-07-17 03:49:20.465541,Requesting credit of $755.81 for seller 235
+768,2,SAM,2025-07-18 20:49:20.465541,Approved
+769,20,AM,2024-08-18 00:27:43.610757,Requesting credit of $550.26 for seller 151
+769,5,SAM,2024-08-18 19:27:43.610757,Approved
+770,7,AM,2025-02-05 23:49:31.591396,Requesting credit of $288.83 for seller 180
+770,1,SAM,2025-02-06 12:49:31.591396,Rejected
+771,12,AM,2024-08-11 08:22:03.392469,Requesting credit of $589.01 for seller 170
+771,1,SAM,2024-08-13 02:22:03.392469,Approved
+772,13,AM,2025-01-30 07:36:55.057268,Requesting credit of $773.71 for seller 267
+772,1,SAM,2025-02-01 06:36:55.057268,Approved
+773,19,AM,2024-08-09 12:05:18.878559,Requesting credit of $477.33 for seller 42
+773,1,SAM,2024-08-10 03:05:18.878559,Approved
+774,15,AM,2025-07-08 17:32:29.706016,Requesting credit of $382.68 for seller 238
+774,2,SAM,2025-07-09 17:32:29.706016,Approved
+775,4,AM,2025-06-23 00:38:35.914347,Requesting credit of $573.43 for seller 99
+775,2,SAM,2025-06-23 08:38:35.914347,Approved
+776,14,AM,2025-04-14 01:03:21.171865,Requesting credit of $486.02 for seller 205
+776,1,SAM,2025-04-15 07:03:21.171865,Approved
+777,18,AM,2025-01-01 10:08:00.672910,Requesting credit of $282.12 for seller 207
+777,5,SAM,2025-01-01 19:08:00.672910,Approved
+778,4,AM,2024-03-05 21:53:20.020221,Requesting credit of $305.96 for seller 149
+778,2,SAM,2024-03-06 21:53:20.020221,Approved
+779,19,AM,2025-01-12 00:20:50.066261,Requesting credit of $663.09 for seller 191
+779,1,SAM,2025-01-13 11:20:50.066261,Approved
+780,3,AM,2025-06-22 13:43:42.387937,Requesting credit of $565.35 for seller 155
+780,3,SAM,2025-06-23 07:43:42.387937,Approved
+781,15,AM,2025-06-29 23:30:01.330580,Requesting credit of $484.55 for seller 241
+781,2,SAM,2025-06-30 16:30:01.330580,Approved
+782,11,AM,2024-02-02 02:03:43.695643,Requesting credit of $749.86 for seller 175
+782,4,SAM,2024-02-03 22:03:43.695643,Approved
+783,6,AM,2025-06-07 16:53:01.008298,Requesting credit of $239.79 for seller 109
+783,2,SAM,2025-06-08 15:53:01.008298,Approved
+784,8,AM,2024-09-20 07:47:40.388200,Requesting credit of $742.27 for seller 287
+784,5,SAM,2024-09-21 08:47:40.388200,Approved
+785,3,AM,2024-06-24 19:16:51.559127,Requesting credit of $349.78 for seller 155
+785,3,SAM,2024-06-25 20:16:51.559127,Approved
+786,7,AM,2025-05-02 05:54:03.807567,Requesting credit of $795.28 for seller 285
+786,1,SAM,2025-05-03 15:54:03.807567,Approved
+787,19,AM,2025-07-30 08:50:17.507388,Requesting credit of $642.18 for seller 191
+787,1,SAM,2025-07-30 15:50:17.507388,Approved
+788,7,AM,2025-06-01 05:50:11.192001,Requesting credit of $418.58 for seller 180
+788,1,SAM,2025-06-01 10:50:11.192001,Approved
+789,2,AM,2025-04-15 14:14:00.539170,Requesting credit of $713.69 for seller 121
+789,1,SAM,2025-04-16 11:14:00.539170,Approved
+790,13,AM,2024-09-26 02:15:10.233936,Requesting credit of $746.18 for seller 209
+790,1,SAM,2024-09-27 18:15:10.233936,Approved
+791,18,AM,2025-01-15 07:12:47.168113,Requesting credit of $556.41 for seller 101
+791,5,SAM,2025-01-15 13:12:47.168113,Approved
+792,8,AM,2024-09-03 16:15:06.031075,Requesting credit of $785.37 for seller 250
+792,5,SAM,2024-09-04 15:15:06.031075,Approved
+793,6,AM,2025-08-19 18:44:10.127942,Requesting credit of $655.0 for seller 293
+793,2,SAM,2025-08-20 03:44:10.127942,Approved
+794,19,AM,2025-01-31 07:57:07.557936,Requesting credit of $747.77 for seller 17
+794,1,SAM,2025-01-31 20:57:07.557936,Approved
+795,14,AM,2025-01-21 08:04:11.605836,Requesting credit of $431.16 for seller 5
+795,1,SAM,2025-01-21 21:04:11.605836,Approved
+796,13,AM,2024-07-17 07:52:15.530111,Requesting credit of $547.7 for seller 113
+796,1,SAM,2024-07-18 00:52:15.530111,Approved
+797,20,AM,2024-02-28 20:06:55.299175,Requesting credit of $276.07 for seller 286
+797,5,SAM,2024-02-29 19:06:55.299175,Approved
+798,13,AM,2024-09-11 22:06:38.635011,Requesting credit of $725.09 for seller 206
+798,1,SAM,2024-09-12 04:06:38.635011,Approved
+799,11,AM,2024-10-25 22:18:53.604454,Requesting credit of $512.24 for seller 132
+799,4,SAM,2024-10-27 18:18:53.604454,Approved
+800,17,AM,2024-12-28 11:43:35.027874,Requesting credit of $297.77 for seller 199
+800,5,SAM,2024-12-29 19:43:35.027874,Approved

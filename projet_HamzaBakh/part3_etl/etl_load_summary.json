@@ -1,0 +1,72 @@
+[
+  {
+    "table": "senior_account_managers",
+    "inserted": 5,
+    "updated": 0,
+    "skipped": 0,
+    "records": 5
+  },
+  {
+    "table": "account_managers",
+    "inserted": 20,
+    "updated": 0,
+    "skipped": 0,
+    "records": 20
+  },
+  {
+    "table": "sellers",
+    "inserted": 300,
+    "updated": 0,
+    "skipped": 0,
+    "records": 300
+  },
+  {
+    "table": "credits",
+    "inserted": 800,
+    "updated": 0,
+    "skipped": 0,
+    "records": 800
+  },
+  {
+    "table": "leads",
+    "inserted": 20000,
+    "updated": 0,
+    "skipped": 0,
+    "records": 20000
+  },
+  {
+    "table": "invoices",
+    "inserted": 27600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 27600
+  },
+  {
+    "table": "invoice_items",
+    "inserted": 138000,
+    "updated": 0,
+    "skipped": 0,
+    "records": 138000
+  },
+  {
+    "table": "wallet_transactions",
+    "inserted": 27600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 27600
+  },
+  {
+    "table": "credit_histories",
+    "inserted": 3137,
+    "updated": 0,
+    "skipped": 0,
+    "records": 3137
+  },
+  {
+    "table": "credit_chat",
+    "inserted": 1600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 1600
+  }
+]
