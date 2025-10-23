@@ -1,25 +1,22 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-part2_data_quality.py
+# PART 2 — DATA QUALITY & VALIDATION FRAMEWORK
+#
+# Candidate Name:  HAMZA BAKH
+# Date:            20 Oct 2025
+# Time Spent:      90 min
+#------------------------------------------------
+# This module implements a comprehensive Data Quality Validation Framework
+# for the Credit Management System dataset.
+#
+# Objective:
+# Detect and report integrity issues, logical inconsistencies,
+# and statistical anomalies across all core entities
+# (Sellers, Credits, Leads, Invoices, Wallets, Managers).
+# --------------------------------------------------------------
+# How to run:
+#   python part2_data_quality.py --data-dir ../credit_challenge_dataset --out-dir .
+#--------------------------------------------------------------
 
-Data Quality & Validation Framework
-Author: Hamza Bakh
-Date: 19-10-2025
 
-How to run:
-    python part2_data_quality.py --data-dir ./credit_challenge_dataset --out-dir .
-
-Outputs (created next to this script or in --out-dir):
-    - data_quality_report.csv
-    - data_quality_scorecard.csv
-    - data_quality_findings.md
-    - data_quality.log
-
-Notes:
-- The code is defensive against minor schema differences.
-- Comments explain intent and trade-offs, not the obvious.
-"""
 
 from __future__ import annotations
 
@@ -35,9 +32,10 @@ import pandas as pd
 
 
 # --------------------------------------------------
-# Configuration (defaults; override via CLI)
+# Configuration 
 # --------------------------------------------------
-WALLET_INV_TOLERANCE = 0.01  # absolute tol for wallet vs invoices reconciliation
+WALLET_INV_TOLERANCE = 0.01  
+WALLET_INV_REL_TOL = 0.005  # 0.5% relative tolerance
 MIN_LEADS_FOR_CONV_EXTREME = 10
 LOW_CONV_THRESHOLD = 0.10
 HIGH_CONV_THRESHOLD = 0.90
@@ -48,9 +46,8 @@ HIGH_CONV_THRESHOLD = 0.90
 # --------------------------------------------------
 def setup_logging(out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
-    log_path = out_dir / "data_quality.log"
+    # Only log to stdout (no file logging)
     handlers = [
-        logging.FileHandler(log_path, encoding="utf-8"),
         logging.StreamHandler(sys.stdout),
     ]
     logging.basicConfig(
@@ -58,7 +55,7 @@ def setup_logging(out_dir: Path) -> None:
         format="%(asctime)s | %(levelname)s | %(message)s",
         handlers=handlers,
     )
-    logging.info("Logger initialized at %s", log_path)
+    logging.info("Logger initialized (console output only)")
 
 
 # --------------------------------------------------
@@ -289,7 +286,10 @@ def business_logic_validation(d: Dict[str, pd.DataFrame]) -> List[Dict]:
             inv_sum = inv.groupby("seller_id", as_index=False)["invoice_total"].sum().rename(columns={"invoice_total": "invoices_sum"})
             chk = w_sum.merge(inv_sum, on="seller_id", how="outer").fillna(0)
             diff = np.round(chk["wallet_sum"] - chk["invoices_sum"], 2)
-            bad = chk[np.abs(diff) > WALLET_INV_TOLERANCE]
+            # Check both absolute and relative tolerance
+            abs_tolerance_exceeded = np.abs(diff) > WALLET_INV_TOLERANCE
+            rel_tolerance_exceeded = (np.abs(diff) / chk["invoices_sum"].replace(0, np.nan)) > WALLET_INV_REL_TOL
+            bad = chk[abs_tolerance_exceeded & rel_tolerance_exceeded.fillna(False)]
             for _, r in bad.iterrows():
                 issues.append({"entity": "wallet", "issue": "wallet_invoice_mismatch", "id": r["seller_id"], "severity": "Warning", "desc": f"wallet_sum={r['wallet_sum']} vs invoices_sum={r['invoices_sum']}"})
         else:
@@ -364,6 +364,10 @@ def credit_lifecycle_reconciliation(d: Dict[str, pd.DataFrame]) -> List[Dict]:
       - Else if invoices after issue_date > 0 => expected 'approved'
       - Else if due_date passed and no invoices => expected 'cancelled'
       - Else => expected 'inreview'
+    
+    Credit invoices are scoped per credit window: [issue_date, next_credit_issue_date)
+    for the same seller to prevent cross-credit leakage.
+    
     Credit histories override to 'paid'/'cancelled' when present as final event.
     """
     issues: List[Dict] = []
@@ -373,23 +377,44 @@ def credit_lifecycle_reconciliation(d: Dict[str, pd.DataFrame]) -> List[Dict]:
     date_col = "period_start" if "period_start" in inv.columns else None
     now = pd.Timestamp.now().normalize()
 
-    for _, r in c.iterrows():
+    # Precompute next credit issue date per seller for windowing
+    c_sorted = c.sort_values(["seller_id", "issue_date"]).copy()
+    c_sorted["next_issue_date"] = c_sorted.groupby("seller_id")["issue_date"].shift(-1)
+
+    for idx, r in c.iterrows():
         sid = r.get("seller_id")
         issued_amt = pd.to_numeric(r.get("amount"), errors="coerce")
         if pd.isna(issued_amt) or pd.isna(sid):
             continue
 
-        # Sum invoices for this seller after credit issue date (if period_start exists)
+        # Sum invoices for this credit within windowed time range
         mask = inv["seller_id"] == sid
+        
+        # Window start: credit issue_date
         if date_col and pd.notna(r.get("issue_date")):
             mask &= inv[date_col] >= r["issue_date"]
+        
+        # Window end: min(next_credit_issue_date, due_date) for the same seller
+        window_end_candidates = []
+        if idx in c_sorted.index:
+            next_issue = c_sorted.loc[idx, "next_issue_date"]
+            if pd.notna(next_issue):
+                window_end_candidates.append(pd.to_datetime(next_issue))
+        
+        due_date = r.get("due_date")
+        if pd.notna(due_date):
+            window_end_candidates.append(pd.to_datetime(due_date))
+        
+        if window_end_candidates and date_col:
+            window_end = min(window_end_candidates)
+            mask &= inv[date_col] < window_end
+        
         inv_sum = pd.to_numeric(inv.loc[mask, "invoice_total"], errors="coerce").fillna(0).sum()
 
         # Baseline expectation
         expected = "paid" if inv_sum >= issued_amt else ("approved" if inv_sum > 0 else "inreview")
 
         # due_date handling
-        due_date = r.get("due_date")
         if pd.notna(due_date):
             due_dt = pd.to_datetime(due_date)
             # If tz-aware, convert to naive for consistent comparison
@@ -466,6 +491,7 @@ def safe_to_markdown(df: pd.DataFrame) -> str:
 def generate_findings_report(df_issues: pd.DataFrame, df_score: pd.DataFrame, out_path: Path) -> None:
     lines: List[str] = []
     lines.append("# Data Quality Findings\n")
+    lines.append(f"_Run at: {pd.Timestamp.utcnow().isoformat()}Z_\n")
     lines.append("This report summarizes the checks executed by the validation framework.\n")
 
     # Quick overview
@@ -519,11 +545,11 @@ def generate_findings_report(df_issues: pd.DataFrame, df_score: pd.DataFrame, ou
 # --------------------------------------------------
 # Orchestrate
 # --------------------------------------------------
-def run_validation(data_dir: Path, out_dir: Path) -> None:
+def run_validation(data_dir: Path, out_dir: Path, min_severity: str = "Info") -> None:
     t0 = time.time()
     setup_logging(out_dir)
 
-    logging.info("Starting validation with data_dir=%s out_dir=%s", data_dir, out_dir)
+    logging.info("Starting validation with data_dir=%s out_dir=%s min_severity=%s", data_dir, out_dir, min_severity)
 
     data = load_data(data_dir)
 
@@ -542,18 +568,23 @@ def run_validation(data_dir: Path, out_dir: Path) -> None:
         logging.info("%s check completed in %.2fs (%d new issues)", name, time.time() - s0, len(result))
 
     df_issues = pd.DataFrame(issues, columns=["entity", "issue", "id", "severity", "desc"])
-    df_score = build_scorecard(data, issues)
+    
+    # Apply severity filter
+    severity_rank = {"Info": 0, "Warning": 1, "Critical": 2}
+    min_rank = severity_rank[min_severity]
+    df_issues_filtered = df_issues[df_issues["severity"].map(severity_rank) >= min_rank]
+    
+    df_score = build_scorecard(data, issues)  # Use unfiltered issues for scorecard to show full picture
 
-    # Persist outputs
+    # Persist outputs (only report.csv and findings.md)
     out_dir.mkdir(parents=True, exist_ok=True)
-    (out_dir / "data_quality_report.csv").write_text(df_issues.to_csv(index=False), encoding="utf-8")
-    (out_dir / "data_quality_scorecard.csv").write_text(df_score.to_csv(index=False), encoding="utf-8")
-    generate_findings_report(df_issues, df_score, out_dir / "data_quality_findings.md")
+    df_issues_filtered.to_csv(out_dir / "data_quality_report.csv", index=False, encoding="utf-8")
+    generate_findings_report(df_issues_filtered, df_score, out_dir / "data_quality_findings.md")
 
     # Final log summary
     total_time = time.time() - t0
-    sev_counts = {} if df_issues.empty else df_issues["severity"].value_counts().to_dict()
-    logging.info("Validation completed in %.2fs | Issues by severity: %s", total_time, sev_counts)
+    sev_counts = {} if df_issues_filtered.empty else df_issues_filtered["severity"].value_counts().to_dict()
+    logging.info("Validation completed in %.2fs | Issues by severity (filtered): %s", total_time, sev_counts)
     logging.info("\n%s", df_score.to_string(index=False))
 
 
@@ -561,12 +592,13 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Part 2 — Data Quality & Validation Framework")
     parser.add_argument("--data-dir", type=Path, default=Path("./credit_challenge_dataset"), help="Path to dataset CSV folder")
     parser.add_argument("--out-dir", type=Path, default=Path("."), help="Directory to write outputs")
+    parser.add_argument("--min-severity", choices=["Info", "Warning", "Critical"], default="Info", help="Minimum severity level to report")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    run_validation(args.data_dir, args.out_dir)
+    run_validation(args.data_dir, args.out_dir, args.min_severity)
 
 
 if __name__ == "__main__":
