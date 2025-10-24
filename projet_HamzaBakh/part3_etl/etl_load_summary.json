@@ -1,0 +1,82 @@
+[
+  {
+    "table": "senior_account_managers",
+    "inserted": 5,
+    "updated": 0,
+    "skipped": 0,
+    "records": 5,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "account_managers",
+    "inserted": 20,
+    "updated": 0,
+    "skipped": 0,
+    "records": 20,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "sellers",
+    "inserted": 300,
+    "updated": 0,
+    "skipped": 0,
+    "records": 300,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "credits",
+    "inserted": 800,
+    "updated": 0,
+    "skipped": 0,
+    "records": 800,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "leads",
+    "inserted": 20000,
+    "updated": 0,
+    "skipped": 0,
+    "records": 20000,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "invoices",
+    "inserted": 27600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 27600,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "invoice_items",
+    "inserted": 138000,
+    "updated": 0,
+    "skipped": 0,
+    "records": 138000,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "wallet_transactions",
+    "inserted": 27600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 27600,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "credit_histories",
+    "inserted": 3137,
+    "updated": 0,
+    "skipped": 0,
+    "records": 3137,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  },
+  {
+    "table": "credit_chat",
+    "inserted": 1600,
+    "updated": 0,
+    "skipped": 0,
+    "records": 1600,
+    "timestamp_utc": "2025-10-24T05:04:50.375259+00:00"
+  }
+]

@@ -1,23 +1,95 @@
-// ============================================
-//  File: part4_seller_health.js
-// Description: Seller Health Analytics Endpoint
-// ============================================
+// ============================================================================
+// PART 4.2 — DATABASE OPTIMIZATION: SELLER HEALTH ANALYTICS ENDPOINT
+//
+// Candidate Name:  HAMZA BAKH
+// Date:            22 Oct 2025
+// Time Spent:      30 min (Analytics Endpoint)
+// ============================================================================
+// This module provides seller health scoring and risk assessment analytics.
+//
+// Objective:
+// Implement comprehensive seller health metrics in single optimized query.
+// Calculate credit utilization, payment reliability, lead conversion, and
+// wallet health with proper risk classification.
+//
+// Metrics Calculated:
+// 1. Credit Utilization Rate: Issued Credits / Credit Limit
+// 2. Payment Reliability: Paid Credits / Total Credits (excl. Cancelled)
+// 3. Lead Conversion Rate: Confirmed Leads / Total Leads
+// 4. Wallet Health Trend: Improving/Declining based on avg_weekly_change
+// 5. Risk Level: High/Medium/Low based on utilization & reliability
+// 6. Health Score: Weighted average (0-100) of all metrics
+//
+// How to run:
+//   curl http://localhost:3000/api/analytics/seller-health/123
+// ============================================================================
 
 const express = require('express');
 const router = express.Router();
 
-//  GET /api/analytics/seller-health/:seller_id
-// Returns seller health metrics and risk classification
+// ============================================================================
+// ENDPOINT: GET /api/analytics/seller-health/:seller_id
+// ============================================================================
+// Returns comprehensive seller health metrics for risk assessment.
+//
+// Parameters:
+//   seller_id (integer): Numeric ID of seller to analyze
+//
+// Response (200 OK):
+// {
+//   "seller_id": 123,
+//   "seller_name": "Tech Solutions",
+//   "health_score": 85,
+//   "metrics": {
+//     "credit_utilization_rate": 0.65,
+//     "payment_reliability_score": 0.92,
+//     "lead_conversion_rate": 0.78,
+//     "wallet_health": {
+//       "current_balance": 450.50,
+//       "avg_weekly_change": 120.30,
+//       "trend": "improving"
+//     }
+//   },
+//   "risk_level": "low",
+//   "last_updated": "2025-10-24T10:30:00Z"
+// }
+//
+// Error Responses:
+//   400 Bad Request: seller_id not integer
+//   404 Not Found: Seller doesn't exist in database
+//   500 Server Error: Database query failed
+// ============================================================================
 router.get('/api/analytics/seller-health/:seller_id', (req, res) => {
   const db = req.app.locals.db;
   const sellerId = parseInt(req.params.seller_id);
 
-  // Input validation
+  // ========================================================================
+  // INPUT VALIDATION: Ensure seller_id is valid integer
+  // ========================================================================
   if (isNaN(sellerId)) {
-    return res.status(400).json({ error: 'seller_id must be an integer' });
+    return res.status(400).json({ 
+      error: 'Invalid input',
+      message: 'seller_id must be an integer',
+      received: req.params.seller_id
+    });
   }
 
+  // ========================================================================
+  // OPTIMIZED QUERY: Single query with CTEs to avoid N+1 problem
+  // ========================================================================
+  // This query calculates all health metrics in one pass:
+  // - credit_stats CTE: Aggregates credit metrics by seller
+  // - lead_stats CTE: Calculates lead conversion rate
+  // - wallet_stats CTE: Aggregates wallet transaction health
+  // - Final SELECT: Joins all CTEs and calculates weighted health score
+  //
+  // Index Usage:
+  // - idx_credits_seller_id: Fast credit stats lookup
+  // - idx_leads_seller_id: Fast lead stats lookup
+  // - idx_wallet_transactions_seller_id: Fast wallet lookup
+  // ========================================================================
   const query = `
+    -- PART 1: Calculate credit metrics (utilization, payment reliability)
     WITH credit_stats AS (
       SELECT
         c.seller_id,
@@ -30,6 +102,8 @@ router.get('/api/analytics/seller-health/:seller_id', (req, res) => {
       WHERE c.seller_id = ?
       GROUP BY c.seller_id
     ),
+    
+    -- PART 2: Calculate lead conversion metrics
     lead_stats AS (
       SELECT
         seller_id,
@@ -39,6 +113,8 @@ router.get('/api/analytics/seller-health/:seller_id', (req, res) => {
       WHERE seller_id = ?
       GROUP BY seller_id
     ),
+    
+    -- PART 3: Calculate wallet health metrics
     wallet_stats AS (
       SELECT
         seller_id,
@@ -48,6 +124,13 @@ router.get('/api/analytics/seller-health/:seller_id', (req, res) => {
       WHERE seller_id = ?
       GROUP BY seller_id
     )
+    
+    -- PART 4: Join all metrics and calculate final health score
+    -- Health Score Formula (0-100):
+    --   (payment_reliability × 40) +
+    --   (lead_conversion × 30) +
+    --   ((1 - utilization_rate) × 20) +
+    --   (wallet_improving_bonus × 10)
     SELECT
       s.seller_id,
       s.seller_name,
@@ -74,10 +157,31 @@ router.get('/api/analytics/seller-health/:seller_id', (req, res) => {
     WHERE s.seller_id = ?;
   `;
 
+  // ========================================================================
+  // EXECUTION: Query database with proper error handling
+  // ========================================================================
   db.get(query, [sellerId, sellerId, sellerId, sellerId], (err, row) => {
-    if (err) return res.status(500).json({ error: err.message });
-    if (!row || !row.seller_id) return res.status(404).json({ error: 'Seller not found' });
+    if (err) {
+      console.error('Seller health query error:', err.message);
+      return res.status(500).json({ 
+        error: 'Failed to fetch seller health metrics',
+        details: err.message 
+      });
+    }
+    
+    // ====================================================================
+    // NOT FOUND: Seller doesn't exist in database
+    // ====================================================================
+    if (!row || !row.seller_id) {
+      return res.status(404).json({ 
+        error: 'Seller not found',
+        seller_id: sellerId
+      });
+    }
 
+    // ====================================================================
+    // SUCCESS: Return structured health metrics response
+    // ====================================================================
     res.json({
       seller_id: row.seller_id,
       seller_name: row.seller_name,
