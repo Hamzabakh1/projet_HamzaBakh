@@ -12,7 +12,6 @@
 **Format:** Take-home coding challenge 
 **Dataset:** Credit Management System (217K+ records) 
 **Submission Date:** October 24, 2025
-**Repository**: [https://github.com/Hamzabakh1/projet_HamzaBakh](https://github.com/Hamzabakh1/projet_HamzaBakh)
 
 ---
 
@@ -41,7 +40,7 @@ Throughout this assessment, I maintained focus on delivering production-quality 
 ```bash
 # Clone repository
 git clone https://github.com/Hamzabakh1/projet_HamzaBakh.git
-cd projet_HamzaBakh
+cd projet_HamzaBakh/projet_HamzaBakh
 
 # Setup Python environment
 python3 -m venv venv
@@ -1158,14 +1157,7 @@ Final Documentation & README: 10 minutes
 
 ---
 
-## Future Development
 
-See **[FUTURE_PLANS.md](./FUTURE_PLANS.md)** for:
-- 12-month technology roadmap
-- Short-term improvements (Real-time dashboards, ML anomaly detection)
-- Medium-term enhancements (Multi-tenant architecture, risk scoring)
-- Long-term initiatives (AI seller platform, blockchain settlement)
-- Architectural evolution vision
 
 ---
 
@@ -1213,7 +1205,6 @@ sqlite3 exam_database.db < part5_migration/part5_migration.sql
 |------|---------|
 | **EXAM_INSTRUCTIONS.md** | Original assessment requirements |
 | **CANDIDATE_SETUP.md** | Environment configuration guide |
-| **FUTURE_PLANS.md** | 12-month roadmap & strategic initiatives |
 | **part1_analysis/part1_analysis.ipynb** | Business intelligence analysis |
 | **part2_data_quality/data_quality_findings.md** | Quality validation summary |
 | **part4_optimization/performance_report.md** | Query optimization benchmarks |
@@ -1250,7 +1241,6 @@ This project is submitted as part of a data engineering technical assessment.
 - Schema migration & versioning
 - Professional technical documentation
 
-> "I don't just process data — I engineer reliability, performance, and business clarity."
 
 ---
 
