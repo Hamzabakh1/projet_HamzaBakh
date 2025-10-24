@@ -150,19 +150,6 @@ Credit Issued Seller Uses Credit Invoice Created Payment Due Wallet Transaction
 
 ```
 projet_HamzaBakh/
-├── README.md                          # This file
-├── FUTURE_PLANS.md                    # 12-month roadmap & initiatives
-├── EXAM_INSTRUCTIONS.md               # Original exam requirements
-├── CANDIDATE_SETUP.md                 # Environment setup guide
-├── requirements.txt                   # Python dependencies
-├── create_tables.py                   # Database schema initialization
-│
-├── credit_challenge_dataset/          # Raw data (217K+ records)
-│   ├── sellers.csv
-│   ├── credits.csv
-│   ├── invoices.csv
-│   ├── leads.csv
-│   └── [7 more CSV files]
 │
 ├── part1_analysis/
 │   └── part1_analysis.ipynb           # Business intelligence analysis

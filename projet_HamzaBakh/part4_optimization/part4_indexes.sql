@@ -2,7 +2,7 @@
 -- PART 4.1 — DATABASE OPTIMIZATION: INDEX CREATION & QUERY PERFORMANCE
 --
 -- Candidate Name:  HAMZA BAKH
--- Date:            20 Oct 2025
+-- Date:            22 Oct 2025
 -- Time Spent:      30 min (Query Optimization)
 -- ============================================================================
 -- This module creates 20 strategic database indexes to optimize query

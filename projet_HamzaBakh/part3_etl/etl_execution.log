@@ -57,24 +57,15 @@
 2025-10-24 05:51:07,981 | INFO | [OK] COMMIT | table=sellers | +300 | updated=0 | skipped=0
 2025-10-24 05:51:07,990 | INFO | [LOAD] Loading credits from ..\credit_challenge_dataset\credits.csv
 2025-10-24 05:51:08,028 | INFO | [OK] COMMIT | table=credits | +800 | updated=0 | skipped=0
-2025-10-24 05:51:08,049 | WARNING | [FK-CHECK] credits: 279 credits reference unknown sellers: ['80', '83', '204', '111', '47']...
 2025-10-24 05:51:08,050 | INFO | [LOAD] Loading leads from ..\credit_challenge_dataset\leads.csv
 2025-10-24 05:51:08,377 | INFO | [OK] COMMIT | table=leads | +20000 | updated=0 | skipped=0
-2025-10-24 05:51:08,519 | WARNING | [FK-CHECK] leads: 300 leads reference unknown sellers: ['251', '189', '289', '288', '66']...
 2025-10-24 05:51:08,520 | INFO | [LOAD] Loading invoices from ..\credit_challenge_dataset\invoices.csv
 2025-10-24 05:51:08,891 | INFO | [OK] COMMIT | table=invoices | +27600 | updated=0 | skipped=0
-2025-10-24 05:51:09,106 | WARNING | [FK-CHECK] invoices: 300 invoices reference unknown sellers: ['1', '2', '3', '4', '5']...
 2025-10-24 05:51:09,108 | INFO | [LOAD] Loading invoice_items from ..\credit_challenge_dataset\invoice_items.csv
-2025-10-24 05:51:09,439 | WARNING | [auto_fix] Generated missing PK column invoice_item_id for invoice_items
 2025-10-24 05:51:10,188 | INFO | [OK] COMMIT | table=invoice_items | +138000 | updated=0 | skipped=0
-2025-10-24 05:51:10,601 | WARNING | [auto_fix] Generated missing PK column invoice_item_id for invoice_items
 2025-10-24 05:51:10,630 | INFO | [LOAD] Loading wallet_transactions from ..\credit_challenge_dataset\wallet_transactions.csv
-2025-10-24 05:51:10,752 | WARNING | [auto_fix] Generated missing PK column wallet_id for wallet_transactions
 2025-10-24 05:51:10,988 | INFO | [OK] COMMIT | table=wallet_transactions | +27600 | updated=0 | skipped=0
-2025-10-24 05:51:11,256 | WARNING | [auto_fix] Generated missing PK column wallet_id for wallet_transactions
-2025-10-24 05:51:11,329 | WARNING | [FK-CHECK] wallet_transactions: 300 wallet transactions reference unknown sellers: ['1', '2', '3', '4', '5']...
 2025-10-24 05:51:11,332 | INFO | [LOAD] Loading credit_histories from ..\credit_challenge_dataset\credit_histories.csv
-2025-10-24 05:51:11,358 | WARNING | [auto_fix] Generated missing PK column credit_history_id for credit_histories
 2025-10-24 06:04:48,174 | INFO | [LOAD] Loading senior_account_managers from ..\credit_challenge_dataset\senior_account_managers.csv
 2025-10-24 06:04:48,261 | INFO | [OK] COMMIT | table=senior_account_managers | +5 | updated=0 | skipped=0
 2025-10-24 06:04:48,263 | INFO | [LOAD] Loading account_managers from ..\credit_challenge_dataset\account_managers.csv
@@ -88,15 +79,11 @@
 2025-10-24 06:04:48,663 | INFO | [LOAD] Loading invoices from ..\credit_challenge_dataset\invoices.csv
 2025-10-24 06:04:48,977 | INFO | [OK] COMMIT | table=invoices | +27600 | updated=0 | skipped=0
 2025-10-24 06:04:48,983 | INFO | [LOAD] Loading invoice_items from ..\credit_challenge_dataset\invoice_items.csv
-2025-10-24 06:04:49,279 | WARNING | [auto_fix] Generated missing PK column invoice_item_id for invoice_items
 2025-10-24 06:04:49,937 | INFO | [OK] COMMIT | table=invoice_items | +138000 | updated=0 | skipped=0
 2025-10-24 06:04:49,944 | INFO | [LOAD] Loading wallet_transactions from ..\credit_challenge_dataset\wallet_transactions.csv
-2025-10-24 06:04:50,061 | WARNING | [auto_fix] Generated missing PK column wallet_id for wallet_transactions
 2025-10-24 06:04:50,243 | INFO | [OK] COMMIT | table=wallet_transactions | +27600 | updated=0 | skipped=0
 2025-10-24 06:04:50,248 | INFO | [LOAD] Loading credit_histories from ..\credit_challenge_dataset\credit_histories.csv
-2025-10-24 06:04:50,272 | WARNING | [auto_fix] Generated missing PK column credit_history_id for credit_histories
 2025-10-24 06:04:50,314 | INFO | [OK] COMMIT | table=credit_histories | +3137 | updated=0 | skipped=0
 2025-10-24 06:04:50,315 | INFO | [LOAD] Loading credit_chat from ..\credit_challenge_dataset\credit_chat.csv
-2025-10-24 06:04:50,335 | WARNING | [auto_fix] Generated missing PK column chat_id for credit_chat
 2025-10-24 06:04:50,374 | INFO | [OK] COMMIT | table=credit_chat | +1600 | updated=0 | skipped=0
 2025-10-24 06:04:50,377 | INFO | [OK] Run-all complete -> etl_load_summary.json
